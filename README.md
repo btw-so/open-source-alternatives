@@ -54,6 +54,7 @@ List of open-source alternatives to everyday SaaS products.
 ### Blogging platform/ Personal website builder (Medium alternatives):
 |Company|Website|GitHub stars|
 |:-------|:------|:----------|
+[WriteFreely](https://github.com/writefreely/writefreely)|[writefreely.org](https://writefreely.org/)|<a href=https://github.com/writefreely/writefreely><img src="https://img.shields.io/github/stars/writefreely/writefreely?style=flat" width=100/></a>
 [btw](https://github.com/btw-so/btw)|[www.btw.so](https://www.btw.so/)|<a href=https://github.com/btw-so/btw><img src="https://img.shields.io/github/stars/btw-so/btw?style=flat" width=100/></a>
 
 ### Static website generator:
@@ -122,6 +123,7 @@ List of open-source alternatives to everyday SaaS products.
 [WeKan](https://github.com/wekan/wekan)|[wekan.github.io](https://wekan.github.io/)|<a href=https://github.com/wekan/wekan><img src="https://img.shields.io/github/stars/wekan/wekan?style=flat" width=100/></a>
 [Focalboard](https://github.com/mattermost/focalboard)|[www.focalboard.com](https://www.focalboard.com/)|<a href=https://github.com/mattermost/focalboard><img src="https://img.shields.io/github/stars/mattermost/focalboard?style=flat" width=100/></a>
 [Kanboard](https://github.com/kanboard/kanboard)|[kanboard.org](https://kanboard.org/)|<a href=https://github.com/kanboard/kanboard><img src="https://img.shields.io/github/stars/kanboard/kanboard?style=flat" width=100/></a>
+[Planka](https://github.com/plankanban/planka)|[planka.app](https://planka.app/)|<a href=https://github.com/plankanban/planka><img src="https://img.shields.io/github/stars/plankanban/planka?style=flat" width=100/></a>
 
 ### Social network/ Micro-blogging (Twitter alternatives):
 |Company|Website|GitHub stars|
@@ -153,6 +155,7 @@ List of open-source alternatives to everyday SaaS products.
 [Rocket.chat](https://github.com/RocketChat/Rocket.Chat)|[www.rocket.chat](https://www.rocket.chat/)|<a href=https://github.com/RocketChat/Rocket.Chat><img src="https://img.shields.io/github/stars/RocketChat/Rocket.Chat?style=flat" width=100/></a>
 [Mattermost](https://github.com/mattermost/mattermost-server)|[mattermost.com](https://mattermost.com/)|<a href=https://github.com/mattermost/mattermost-server><img src="https://img.shields.io/github/stars/mattermost/mattermost-server?style=flat" width=100/></a>
 [Zulip](https://github.com/zulip/zulip)|[zulip.com](https://zulip.com/)|<a href=https://github.com/zulip/zulip><img src="https://img.shields.io/github/stars/zulip/zulip?style=flat" width=100/></a>
+[Element](https://github.com/vector-im/element-web)|[element.io](https://element.io)|<a href=https://github.com/vector-im/element-web><img src="https://img.shields.io/github/stars/vector-im/element-web?style=flat" width=100/></a>
 [Spacebar](https://github.com/spacebarchat/spacebarchat)|[spacebar.chat](https://spacebar.chat/)|<a href=https://github.com/spacebarchat/spacebarchat><img src="https://img.shields.io/github/stars/spacebarchat/spacebarchat?style=flat" width=100/></a>
 [RelatedChat](https://github.com/relatedcode/Messenger)|[relatedcode.com](https://relatedcode.com/)|<a href=https://github.com/relatedcode/Messenger><img src="https://img.shields.io/github/stars/relatedcode/Messenger?style=flat" width=100/></a>
 
@@ -201,6 +204,7 @@ List of open-source alternatives to everyday SaaS products.
 ### Password manager (1Password alternatives):
 |Company|Website|GitHub stars|
 |:-------|:------|:----------|
+[Bitwarden](https://github.com/bitwarden/clients)|[bitwarden.com](https://bitwarden.com/)|<a href=https://github.com/bitwarden/clients><img src="https://img.shields.io/github/stars/bitwarden/clients?style=flat" width=100/></a>
 [Padloc](https://github.com/padloc/padloc)|[padloc.app](https://padloc.app/)|<a href=https://github.com/padloc/padloc><img src="https://img.shields.io/github/stars/padloc/padloc?style=flat" width=100/></a>
 
 ### Email delivery (Mailgun, SendGrid alternatives):
@@ -229,6 +233,7 @@ List of open-source alternatives to everyday SaaS products.
 |Company|Website|GitHub stars|
 |:-------|:------|:----------|
 [hoppscotch](https://github.com/hoppscotch/hoppscotch)|[hoppscotch.io](https://hoppscotch.io/)|<a href=https://github.com/hoppscotch/hoppscotch><img src="https://img.shields.io/github/stars/hoppscotch/hoppscotch?style=flat" width=100/></a>
+[Insomnia](https://github.com/Kong/insomnia)|[insomnia.rest](https://insomnia.rest/)|<a href=https://github.com/Kong/insomnia><img src="https://img.shields.io/github/stars/Kong/insomnia?style=flat" width=100/></a>
 
 ### Programmatic videos:
 |Company|Website|GitHub stars|
@@ -260,6 +265,7 @@ List of open-source alternatives to everyday SaaS products.
 |Company|Website|GitHub stars|
 |:-------|:------|:----------|
 [Jitsi Meet](https://github.com/jitsi/jitsi-meet)|[jitsi.org](https://jitsi.org/)|<a href=https://github.com/jitsi/jitsi-meet><img src="https://img.shields.io/github/stars/jitsi/jitsi-meet?style=flat" width=100/></a>
+[Element Call](https://github.com/vector-im/element-call)|[call.element.io](https://call.element.io/)|<a href=https://github.com/vector-im/element-call><img src="https://img.shields.io/github/stars/vector-im/element-call?style=flat" width=100/></a>
 
 ### Personal cloud (Dropbox alternatives):
 |Company|Website|GitHub stars|
