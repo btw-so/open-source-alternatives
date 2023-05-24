@@ -109,7 +109,8 @@ List of open-source alternatives to everyday SaaS products.
 ### To-do app:
 |Company|Website|GitHub stars|
 |:-------|:------|:----------|
-[super-productivity](https://github.com/johannesjo/super-productivity)|[super-productivity.com](http://super-productivity.com/)|<a href=https://github.com/johannesjo/super-productivity><img src="https://img.shields.io/github/stars/johannesjo/super-productivity?style=flat" width=100/></a>
+|[super-productivity](https://github.com/johannesjo/super-productivity)|[super-productivity.com](http://super-productivity.com/)|<a href=https://github.com/johannesjo/super-productivity><img src="https://img.shields.io/github/stars/johannesjo/super-productivity?style=flat" width=100/></a>|
+|[Vikunja](https://github.com/go-vikunja/)|[vikunja.io](https://vikunja.io/)|<a href=https://github.com/go-vikunja/><img src="https://img.shields.io/github/stars/go-vikunja/api?style=flat" width=100/></a>|
 
 ### Community management:
 |Company|Website|GitHub stars|
