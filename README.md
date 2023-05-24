@@ -206,6 +206,7 @@ List of open-source alternatives to everyday SaaS products.
 |:-------|:------|:----------|
 [Bitwarden](https://github.com/bitwarden/clients)|[bitwarden.com](https://bitwarden.com/)|<a href=https://github.com/bitwarden/clients><img src="https://img.shields.io/github/stars/bitwarden/clients?style=flat" width=100/></a>
 [Padloc](https://github.com/padloc/padloc)|[padloc.app](https://padloc.app/)|<a href=https://github.com/padloc/padloc><img src="https://img.shields.io/github/stars/padloc/padloc?style=flat" width=100/></a>
+[KeeWeb](https://github.com/keeweb/keeweb)|[keeweb.info](https://keeweb.info/)|<a href=https://github.com/keeweb/keeweb><img src="https://img.shields.io/github/stars/keeweb/keeweb?style=flat" width=100/></a>
 
 ### Email delivery (Mailgun, SendGrid alternatives):
 |Company|Website|GitHub stars|
