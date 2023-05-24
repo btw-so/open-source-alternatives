@@ -62,6 +62,7 @@ List of open-source alternatives to everyday SaaS products.
 [Hugo](https://github.com/gohugoio/hugo)|[gohugo.io](https://gohugo.io/)|<a href=https://github.com/gohugoio/hugo><img src="https://img.shields.io/github/stars/gohugoio/hugo?style=flat" width=100/></a>
 [Jekyll](https://github.com/jekyll/jekyll)|[jekyllrb.com](https://jekyllrb.com/)|<a href=https://github.com/jekyll/jekyll><img src="https://img.shields.io/github/stars/jekyll/jekyll?style=flat" width=100/></a>
 [11ty](https://github.com/11ty/eleventy)|[11ty.dev](https://www.11ty.dev/)|<a href=https://github.com/11ty/eleventy><img src="https://img.shields.io/github/stars/11ty/eleventy?style=flat" width=100/></a>
+[Zola](https://github.com/getzola/zola)|[getzola.org](https://getzola.org/)|<a href=https://github.com/getzola/zola><img src="https://img.shields.io/github/stars/getzola/zola?style=flat" width=100/></a>
 
 ### Website builder (Wix, Strikingly, Webflow alternatives):
 |Company|Website|GitHub stars|
