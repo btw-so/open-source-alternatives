@@ -67,6 +67,7 @@ List of open-source alternatives to everyday SaaS products.
 ### Website builder (Wix, Strikingly, Webflow alternatives):
 |Company|Website|GitHub stars|
 |:-------|:------|:----------|
+[Silex](https://github.com/silexlabs/Silex)|[silex.me](https://www.silex.me/)|<a href=https://github.com/silexlabs/Silex><img src="https://img.shields.io/github/stars/silexlabs/Silex?style=flat" width=100/></a>
 [DoTenX](https://github.com/dotenx/dotenx)|[dotenx.com](https://dotenx.com/)|<a href=https://github.com/dotenx/dotenx><img src="https://img.shields.io/github/stars/dotenx/dotenx?style=flat" width=100/></a>
 
 ### Icons (Noun Project alternatives):
