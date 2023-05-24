@@ -322,6 +322,11 @@ List of open-source alternatives to everyday SaaS products.
 [OpenTSDB](https://github.com/OpenTSDB/opentsdb)|[opentsdb.net](http://opentsdb.net/)|<a href=https://github.com/OpenTSDB/opentsdb><img src="https://img.shields.io/github/stars/OpenTSDB/opentsdb?style=flat" width=100/></a>
 [KairosDB](https://github.com/kairosdb/kairosdb)|[kairosdb.github.io](http://kairosdb.github.io/)|<a href=https://github.com/kairosdb/kairosdb><img src="https://img.shields.io/github/stars/kairosdb/kairosdb?style=flat" width=100/></a>
 
+### Terraform Enterprise Alternative:
+|Company|Website|GitHub stars|
+|:-------|:------|:----------|
+[Digger](https://github.com/diggerhq/digger)|[digger.dev](https://digger.dev/)|<a href=https://github.com/diggerhq/digger><img src="https://img.shields.io/github/stars/diggerhq/digger?style=flat" width=100/></a>
+
 ## Criteria
 1. Product is open-source and repo is actively being maintained.
 3. It is a product (not a library) and ideally has a popular closed-source alternative.
