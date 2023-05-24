@@ -36,6 +36,7 @@ List of open-source alternatives to everyday SaaS products.
 [Matomo](https://github.com/matomo-org/matomo)|[matomo.org](https://matomo.org/)|<a href=https://github.com/matomo-org/matomo><img src="https://img.shields.io/github/stars/matomo-org/matomo?style=flat" width=100/></a>
 [Umami](https://github.com/umami-software/umami)|[umami.is](https://umami.is/)|<a href=https://github.com/umami-software/umami><img src="https://img.shields.io/github/stars/umami-software/umami?style=flat" width=100/></a>
 [Plausible](https://github.com/plausible/analytics)|[plausible.io](https://plausible.io/)|<a href=https://github.com/plausible/analytics><img src="https://img.shields.io/github/stars/plausible/analytics?style=flat" width=100/></a>
+[Swetrix](https://github.com/Swetrix)|[swetrix.com](https://swetrix.com/)|<a href=https://github.com/Swetrix/swetrix-js><img src="https://img.shields.io/github/stars/Swetrix/swetrix-js?style=flat" width=100/></a>
 
 ### Note-taking/ Knowledge management (Evernote alternatives):
 |Company|Website|GitHub stars|
