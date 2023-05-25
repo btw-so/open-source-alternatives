@@ -240,6 +240,13 @@ List of open-source alternatives to everyday SaaS products.
 |:-------|:------|:----------|
 [Remotion](https://github.com/remotion-dev/remotion)|[remotion.dev](https://www.remotion.dev/)|<a href=https://github.com/remotion-dev/remotion><img src="https://img.shields.io/github/stars/remotion-dev/remotion?style=flat" width=100/></a>
 
+### Application Load Testing:
+|Company|Website|GitHub stars|
+|:-------|:------|:----------|
+[K6](https://github.com/grafana/k6)|[k6.io](https://k6.io/docs/)|<a href=https://github.com/grafana/k6><img src="https://img.shields.io/github/stars/grafana/k6" width=100/></a>
+
+
+
 ### Data warehouse (Snowflake alternatives):
 |Company|Website|GitHub stars|
 |:-------|:------|:----------|
