@@ -254,6 +254,7 @@ List of open-source alternatives to everyday SaaS products.
 |Company|Website|GitHub stars|
 |:-------|:------|:----------|
 [Unleash](https://github.com/Unleash/unleash)|[getunleash.io](https://www.getunleash.io/)|<a href=https://github.com/Unleash/unleash><img src="https://img.shields.io/github/stars/Unleash/unleash?style=flat" width=100/></a>
+[Flagsmith](https://github.com/flagsmith/flagsmith)|[flagsmith.com](https://flagsmith.com)|<a href=https://github.com/flagsmith/flagsmith><img src="https://img.shields.io/github/stars/flagsmith/flagsmith?style=flat" width=100/></a>
 [Flagr](https://github.com/openflagr/flagr)|[openflagr.github.io/flagr/](https://openflagr.github.io/flagr/)|<a href=https://openflagr.github.io/flagr/#/><img src="https://img.shields.io/github/stars/openflagr/flagr?style=flat" width=100/></a>
 
 ### Product Analytics (Mixpanel, Amptitude alternatives):
