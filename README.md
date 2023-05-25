@@ -14,6 +14,11 @@ List of open-source alternatives to everyday SaaS products.
 [FauxPilot](https://github.com/fauxpilot/fauxpilot)|[github.com/fauxpilot/fauxpilot/wiki](https://github.com/fauxpilot/fauxpilot/wiki)|<a href=https://github.com/fauxpilot/fauxpilot><img src="https://img.shields.io/github/stars/fauxpilot/fauxpilot?style=flat" width=100/></a>
 [YouCompleteMe](https://github.com/ycm-core/ycmd)|[ycm-core.github.io/ycmd](https://ycm-core.github.io/ycmd/)|<a href=https://github.com/ycm-core/ycmd><img src="https://img.shields.io/github/stars/ycm-core/ycmd?style=flat" width=100/></a>
 
+### Automation (Zapier, Tray.io, Workato alternatives):
+|Company|Website|GitHub stars|
+|:-------|:------|:----------|
+[Activepieces](https://github.com/activepieces/activepieces)|[activepieces.com](https://activepieces.com/)|<a href=https://github.com/activepieces/activepieces><img src="https://img.shields.io/github/stars/activepieces/activepieces?style=flat" width=100/></a>
+
 ### Team knowledge base (Notion alternatives):
 |Company|Website|GitHub stars|
 |:-------|:------|:----------|
