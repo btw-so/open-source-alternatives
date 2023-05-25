@@ -116,6 +116,7 @@ List of open-source alternatives to everyday SaaS products.
 |Company|Website|GitHub stars|
 |:-------|:------|:----------|
 [Discourse](https://github.com/discourse/discourse)|[discourse.org](https://www.discourse.org/)|<a href=https://github.com/discourse/discourse><img src="https://img.shields.io/github/stars/discourse/discourse?style=flat" width=100/></a>
+[crowd.dev](https://github.com/CrowdDotDev/crowd.dev)|[crowd.dev](https://www.crowd.dev/)|<a href=https://github.com/CrowdDotDev/crowd.dev><img src="https://img.shields.io/github/stars/CrowdDotDev/crowd.dev?style=flat" width=100/></a>
 
 ### Kanban board (Trello alternatives):
 |Company|Website|GitHub stars|
