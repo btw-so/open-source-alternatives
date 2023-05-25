@@ -302,6 +302,11 @@ List of open-source alternatives to everyday SaaS products.
 [Crater](https://github.com/crater-invoice/crater)|[crater.financial](https://crater.financial/)|<a href=https://github.com/crater-invoice/crater><img src="https://img.shields.io/github/stars/crater-invoice/crater?style=flat" width=100/></a>
 [SolidInvoice](https://github.com/SolidInvoice/SolidInvoice)|[solidinvoice.co](https://solidinvoice.co/)|<a href=https://github.com/SolidInvoice/SolidInvoice><img src="https://img.shields.io/github/stars/SolidInvoice/SolidInvoice?style=flat" width=100/></a>
 
+### ERD / Database Explorer:
+|Company|Website|GitHub stars|
+|:-------|:------|:----------|
+[Azimutt](https://github.com/azimuttapp/azimutt)|[azimutt.app](https://azimutt.app/)|<a href=https://github.com/azimuttapp/azimutt><img src="https://img.shields.io/github/stars/azimuttapp/azimutt?style=flat" width=100/></a>
+
 ### Graph database:
 |Company|Website|GitHub stars|
 |:-------|:------|:----------|
