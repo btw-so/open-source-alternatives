@@ -329,6 +329,8 @@ List of open-source alternatives to everyday SaaS products.
 [KairosDB](https://github.com/kairosdb/kairosdb)|[kairosdb.github.io](http://kairosdb.github.io/)|<a href=https://github.com/kairosdb/kairosdb><img src="https://img.shields.io/github/stars/kairosdb/kairosdb?style=flat" width=100/></a>
 
 ### Audio Transcription
+|Company|Website|GitHub stars|
+|:-------|:------|:----------|
 [WriteOut](https://github.com/beyondcode/writeout.ai)|[writeout.ai](https://writeout.ai/)|<a href=https://github.com/beyondcode/writeout.ai><img src="https://img.shields.io/github/stars/beyondcode/writeout.ai?style=flat" width=100/></a>
 
 ## Criteria
