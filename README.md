@@ -333,6 +333,11 @@ List of open-source alternatives to everyday SaaS products.
 |:-------|:------|:----------|
 [WriteOut](https://github.com/beyondcode/writeout.ai)|[writeout.ai](https://writeout.ai/)|<a href=https://github.com/beyondcode/writeout.ai><img src="https://img.shields.io/github/stars/beyondcode/writeout.ai?style=flat" width=100/></a>
 
+### Q&A Platform (StackExchange alternatives)
+|Company|Website|GitHub stars|
+|:-------|:------|:----------|
+[Answer](https://github.com/answerdev/answer)|[answer.dev](https://answer.dev/)|<a href=https://github.com/answerdev/answer><img src="https://img.shields.io/github/stars/answerdev/answer?style=flat" width=100/></a>
+
 ## Criteria
 1. Product is open-source and repo is actively being maintained.
 3. It is a product (not a library) and ideally has a popular closed-source alternative.
