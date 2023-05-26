@@ -327,6 +327,12 @@ List of open-source alternatives to everyday SaaS products.
 [OpenTSDB](https://github.com/OpenTSDB/opentsdb)|[opentsdb.net](http://opentsdb.net/)|<a href=https://github.com/OpenTSDB/opentsdb><img src="https://img.shields.io/github/stars/OpenTSDB/opentsdb?style=flat" width=100/></a>
 [KairosDB](https://github.com/kairosdb/kairosdb)|[kairosdb.github.io](http://kairosdb.github.io/)|<a href=https://github.com/kairosdb/kairosdb><img src="https://img.shields.io/github/stars/kairosdb/kairosdb?style=flat" width=100/></a>
 
+### Payments and Billing Automation:
+|Company|Website|GitHub stars|
+|:-------|:------|:----------|
+[Hyperswitch](https://github.com/juspay/hyperswitch)|[hyperswitch.io](https://hyperswitch.io/)|<a href=https://github.com/juspay/hyperswitch><img src="https://img.shields.io/github/stars/juspay/hyperswitch?style=flat" width=100/></a>
+[KillBill](https://github.com/killbill/killbill)|[killbill.io](https://killbill.io/)|<a href=https://github.com/killbill/killbill><img src="https://img.shields.io/github/stars/killbill/killbill?style=flat" width=100/></a>
+
 ## Criteria
 1. Product is open-source and repo is actively being maintained.
 3. It is a product (not a library) and ideally has a popular closed-source alternative.
