@@ -338,6 +338,10 @@ List of open-source alternatives to everyday SaaS products.
 |:-------|:------|:----------|
 [Answer](https://github.com/answerdev/answer)|[answer.dev](https://answer.dev/)|<a href=https://github.com/answerdev/answer><img src="https://img.shields.io/github/stars/answerdev/answer?style=flat" width=100/></a>
 
+### Web Application Integration (Zapier alternatives)
+|Company|Website|GitHub stars|
+|:-------|:------|:----------|
+[Automatisch](https://github.com/automatisch/automatisch)|[automatisch.io](https://automatisch.io/)|<a href=https://github.com/automatisch/automatisch><img src="https://img.shields.io/github/stars/automatisch/automatisch?style=flat" width=100/></a>
 ## Criteria
 1. Product is open-source and repo is actively being maintained.
 3. It is a product (not a library) and ideally has a popular closed-source alternative.
