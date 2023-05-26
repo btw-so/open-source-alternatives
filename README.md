@@ -137,8 +137,8 @@ List of open-source alternatives to everyday SaaS products.
 ### Ticket management (Zendesk, Freshdesk alternatives):
 |Company|Website|GitHub stars|
 |:-------|:------|:----------|
-[Peppermint](https://github.com/Peppermint-Lab/peppermint)|[peppermint.sh](https://peppermint.sh/)|<a href=https://github.com/Peppermint-Lab/peppermint><img src="https://img.shields.io/github/stars/Peppermint-Lab/peppermint?style=flat" width=100/></a>
 [Zammad](https://github.com/zammad/zammad)|[zammad.com](https://zammad.com)|<a href=https://github.com/zammad/zammad><img src="https://img.shields.io/github/stars/zammad/zammad?style=flat" width=100/></a>
+[Peppermint](https://github.com/Peppermint-Lab/peppermint)|[peppermint.sh](https://peppermint.sh/)|<a href=https://github.com/Peppermint-Lab/peppermint><img src="https://img.shields.io/github/stars/Peppermint-Lab/peppermint?style=flat" width=100/></a>
 
 ### Scheduling tool (Calendly alternatives):
 |Company|Website|GitHub stars|
