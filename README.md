@@ -150,6 +150,7 @@ List of open-source alternatives to everyday SaaS products.
 [NocoDB](https://github.com/nocodb/nocodb)|[nocodb.com](https://nocodb.com/)|<a href=https://github.com/nocodb/nocodb><img src="https://img.shields.io/github/stars/nocodb/nocodb?style=flat" width=100/></a>
 [Luckysheet](https://github.com/dream-num/Luckysheet)|[dream-num.github.io/LuckysheetDocs](https://dream-num.github.io/LuckysheetDocs/)|<a href=https://github.com/dream-num/Luckysheet><img src="https://img.shields.io/github/stars/dream-num/Luckysheet?style=flat" width=100/></a>
 [APITable](https://github.com/apitable/apitable)|[apitable.com](https://apitable.com/)|<a href=https://github.com/apitable/apitable><img src="https://img.shields.io/github/stars/apitable/apitable?style=flat" width=100/></a>
+[Grist](https://github.com/gristlabs/grist-core)|[getgrist.com](https://www.getgrist.com/)|<a href="https://www.getgrist.com/"><img src="https://img.shields.io/github/stars/gristlabs/grist-core?style=flat" width=100/></a>
 
 ### Team communication (Slack, Discord alternatives):
 |Company|Website|GitHub stars|
@@ -327,6 +328,20 @@ List of open-source alternatives to everyday SaaS products.
 [OpenTSDB](https://github.com/OpenTSDB/opentsdb)|[opentsdb.net](http://opentsdb.net/)|<a href=https://github.com/OpenTSDB/opentsdb><img src="https://img.shields.io/github/stars/OpenTSDB/opentsdb?style=flat" width=100/></a>
 [KairosDB](https://github.com/kairosdb/kairosdb)|[kairosdb.github.io](http://kairosdb.github.io/)|<a href=https://github.com/kairosdb/kairosdb><img src="https://img.shields.io/github/stars/kairosdb/kairosdb?style=flat" width=100/></a>
 
+### Audio Transcription:
+|Company|Website|GitHub stars|
+|:-------|:------|:----------|
+[WriteOut](https://github.com/beyondcode/writeout.ai)|[writeout.ai](https://writeout.ai/)|<a href=https://github.com/beyondcode/writeout.ai><img src="https://img.shields.io/github/stars/beyondcode/writeout.ai?style=flat" width=100/></a>
+
+### Q&A Platform (StackExchange alternatives):
+|Company|Website|GitHub stars|
+|:-------|:------|:----------|
+[Answer](https://github.com/answerdev/answer)|[answer.dev](https://answer.dev/)|<a href=https://github.com/answerdev/answer><img src="https://img.shields.io/github/stars/answerdev/answer?style=flat" width=100/></a>
+
+### Web Application Integration (Zapier alternatives):
+|Company|Website|GitHub stars|
+|:-------|:------|:----------|
+[Automatisch](https://github.com/automatisch/automatisch)|[automatisch.io](https://automatisch.io/)|<a href=https://github.com/automatisch/automatisch><img src="https://img.shields.io/github/stars/automatisch/automatisch?style=flat" width=100/></a>
 ## Criteria
 1. Product is open-source and repo is actively being maintained.
 3. It is a product (not a library) and ideally has a popular closed-source alternative.
