@@ -327,6 +327,11 @@ List of open-source alternatives to everyday SaaS products.
 [OpenTSDB](https://github.com/OpenTSDB/opentsdb)|[opentsdb.net](http://opentsdb.net/)|<a href=https://github.com/OpenTSDB/opentsdb><img src="https://img.shields.io/github/stars/OpenTSDB/opentsdb?style=flat" width=100/></a>
 [KairosDB](https://github.com/kairosdb/kairosdb)|[kairosdb.github.io](http://kairosdb.github.io/)|<a href=https://github.com/kairosdb/kairosdb><img src="https://img.shields.io/github/stars/kairosdb/kairosdb?style=flat" width=100/></a>
 
+### Remove Background from images and video (Remove.bg and Unscreen Alternatives):
+|Company|Website|GitHub stars|
+|:-------|:------|:----------|
+[BackgroundRemover](https://github.com/nadermx/backgroundremover)|[BackgroundRemoverAI.com](https://backgroundremoverai.com/)|<a href=https://github.com/nadermx/backgroundremover><img src="https://img.shields.io/github/stars/nadermx/backgroundremover?style=flat" width=100/></a>
+
 ## Criteria
 1. Product is open-source and repo is actively being maintained.
 3. It is a product (not a library) and ideally has a popular closed-source alternative.
