@@ -75,6 +75,7 @@ List of open-source alternatives to everyday SaaS products.
 |:-------|:------|:----------|
 [Font-Awesome](https://github.com/FortAwesome/Font-Awesome)|[fontawesome.com](https://fontawesome.com/)|<a href=https://github.com/FortAwesome/Font-Awesome><img src="https://img.shields.io/github/stars/FortAwesome/Font-Awesome?style=flat" width=100/></a>
 [feather](https://github.com/feathericons/feather)|[feathericons.com](https://feathericons.com/)|<a href=https://github.com/feathericons/feather><img src="https://img.shields.io/github/stars/feathericons/feather?style=flat" width=100/></a>
+[Tabler-Icons](https://github.com/tabler/tabler-icons)|[tabler-icons.io](https://tabler-icons.io/)|<a href=[https://github.com/Remix-Design/RemixIcon](https://github.com/tabler/tabler-icons)><img src="https://img.shields.io/github/stars/tabler/tabler-icons?style=flat" width=100/></a>
 [Bootstrap](https://github.com/twbs/icons)|[icons.getbootstrap.com](https://icons.getbootstrap.com/)|<a href=https://github.com/twbs/icons><img src="https://img.shields.io/github/stars/twbs/icons?style=flat" width=100/></a>
 [RemixIcon](https://github.com/Remix-Design/RemixIcon)|[remixicon.com](https://remixicon.com/)|<a href=https://github.com/Remix-Design/RemixIcon><img src="https://img.shields.io/github/stars/Remix-Design/RemixIcon?style=flat" width=100/></a>
 
