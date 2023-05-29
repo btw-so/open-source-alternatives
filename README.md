@@ -358,6 +358,11 @@ List of open-source alternatives to everyday SaaS products.
 [Plane](https://github.com/makeplane/plane)|[Plane.so](https://plane.so/)|<a href=https://github.com/makeplane/plane><img src="https://img.shields.io/github/stars/makeplane/plane?style=flat" width=100/></a>
 [Leantime](https://github.com/Leantime/leantime)|[leantime.io](https://leantime.io/)|<a href=https://github.com/Leantime/leantime><img src="https://img.shields.io/github/stars/Leantime/leantime?style=flat" width=100/></a>
 
+### Personal finance (Empower Personal Wealth alternatives):
+|Company|Website|GitHub stars|
+|:-------|:------|:----------|
+[Ghostfolio](https://github.com/ghostfolio/ghostfolio)|[Ghostfolio](https://ghostfol.io)|<a href=https://github.com/ghostfolio/ghostfolio><img src="https://img.shields.io/github/stars/ghostfolio/ghostfolio?style=flat" width=100/></a>
+
 ## Criteria
 1. Product is open-source and repo is actively being maintained.
 3. It is a product (not a library) and ideally has a popular closed-source alternative.
