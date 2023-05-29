@@ -361,7 +361,7 @@ List of open-source alternatives to everyday SaaS products.
 ### Personal finance (Empower Personal Wealth alternatives):
 |Company|Website|GitHub stars|
 |:-------|:------|:----------|
-[Ghostfolio](https://github.com/ghostfolio/ghostfolio)|[Ghostfolio](https://ghostfol.io)|<a href=https://github.com/ghostfolio/ghostfolio><img src="https://img.shields.io/github/stars/ghostfolio/ghostfolio?style=flat" width=100/></a>
+[Ghostfolio](https://github.com/ghostfolio/ghostfolio)|[Ghostfol.io](https://ghostfol.io)|<a href=https://github.com/ghostfolio/ghostfolio><img src="https://img.shields.io/github/stars/ghostfolio/ghostfolio?style=flat" width=100/></a>
 
 ## Criteria
 1. Product is open-source and repo is actively being maintained.
