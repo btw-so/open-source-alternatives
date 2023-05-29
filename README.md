@@ -331,7 +331,7 @@ List of open-source alternatives to everyday SaaS products.
 ## Criteria
 1. Product is open-source and repo is actively being maintained.
 3. It is a product (not a library) and ideally has a popular closed-source alternative.
-4. Repo has atleast 100 stars on GitHub. 
+4. Repo has at least 100 stars on GitHub. 
 
 ## Contributing
 Looking for contributors to add missing startups/ projects. Please submit a PR (the products are listed in descending order by number of GitHub stars) or feel free to DM [@deeptivchopra](https://twitter.com/deeptivchopra).
