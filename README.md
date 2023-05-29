@@ -115,6 +115,11 @@ List of open-source alternatives to everyday SaaS products.
 |:-------|:------|:----------|
 [Graylog](https://github.com/Graylog2/graylog2-server)|[graylog.org](https://www.graylog.org/)|<a href=https://github.com/Graylog2/graylog2-server><img src="https://img.shields.io/github/stars/Graylog2/graylog2-server?style=flat" width=100/></a>
 
+### Experience management software (Hubspot/Qualtrics alternative):
+|Company|Website|GitHub stars|
+|:-------|:------|:----------|
+[erxes](https://github.com/erxes/erxes)|[erxes.io](https://www.erxes.io/)|<a href=https://github.com/erxes/erxes><img src="https://img.shields.io/github/stars/erxes/erxes?style=flat" width=100/></a>
+
 ### To-do app:
 |Company|Website|GitHub stars|
 |:-------|:------|:----------|
