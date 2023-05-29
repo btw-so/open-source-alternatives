@@ -366,7 +366,7 @@ List of open-source alternatives to everyday SaaS products.
 |:-------|:------|:----------|
 [Ghostfolio](https://github.com/ghostfolio/ghostfolio)|[Ghostfol.io](https://ghostfol.io)|<a href=https://github.com/ghostfolio/ghostfolio><img src="https://img.shields.io/github/stars/ghostfolio/ghostfolio?style=flat" width=100/></a>
 
-###  Streaming music player (Spotify):
+### Streaming music player (Spotify):
 |Company|Website|GitHub stars|
 |:-------|:------|:----------|
 [nuclear](https://github.com/nukeop/nuclear)|[nuclear.js.org](https://nuclear.js.org/)|<a href=https://github.com/nukeop/nuclear><img src="https://img.shields.io/github/stars/nukeop/nuclear?style=flat" width=100/></a>
