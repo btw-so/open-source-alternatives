@@ -36,6 +36,7 @@ List of open-source alternatives to everyday SaaS products.
 [Matomo](https://github.com/matomo-org/matomo)|[matomo.org](https://matomo.org/)|<a href=https://github.com/matomo-org/matomo><img src="https://img.shields.io/github/stars/matomo-org/matomo?style=flat" width=100/></a>
 [Umami](https://github.com/umami-software/umami)|[umami.is](https://umami.is/)|<a href=https://github.com/umami-software/umami><img src="https://img.shields.io/github/stars/umami-software/umami?style=flat" width=100/></a>
 [Plausible](https://github.com/plausible/analytics)|[plausible.io](https://plausible.io/)|<a href=https://github.com/plausible/analytics><img src="https://img.shields.io/github/stars/plausible/analytics?style=flat" width=100/></a>
+[OpenWebAnalytics](https://github.com/Open-Web-Analytics/Open-Web-Analytics)|[openwebanalytics.com](https://www.openwebanalytics.com/)|<a href=https://github.com/Open-Web-Analytics/Open-Web-Analytics><img src="https://img.shields.io/github/stars/Open-Web-Analytics/Open-Web-Analytics?style=flat" width=100/></a>
 
 ### Note-taking/ Knowledge management (Evernote alternatives):
 |Company|Website|GitHub stars|
@@ -55,6 +56,11 @@ List of open-source alternatives to everyday SaaS products.
 |:-------|:------|:----------|
 [WriteFreely](https://github.com/writefreely/writefreely)|[writefreely.org](https://writefreely.org/)|<a href=https://github.com/writefreely/writefreely><img src="https://img.shields.io/github/stars/writefreely/writefreely?style=flat" width=100/></a>
 [btw](https://github.com/btw-so/btw)|[btw.so](https://www.btw.so/)|<a href=https://github.com/btw-so/btw><img src="https://img.shields.io/github/stars/btw-so/btw?style=flat" width=100/></a>
+
+### Newsletters (ConvertKit alternatives):
+|Company|Website|GitHub stars|
+|:-------|:------|:----------|
+[listmonk](https://github.com/knadh/listmonk)|[listmonk.app](https://listmonk.app/)|<a href=https://github.com/knadh/listmonk><img src="https://img.shields.io/github/stars/knadh/listmonk?style=flat" width=100/></a>
 
 ### Static website generator:
 |Company|Website|GitHub stars|
@@ -118,6 +124,7 @@ List of open-source alternatives to everyday SaaS products.
 |Company|Website|GitHub stars|
 |:-------|:------|:----------|
 [Discourse](https://github.com/discourse/discourse)|[discourse.org](https://www.discourse.org/)|<a href=https://github.com/discourse/discourse><img src="https://img.shields.io/github/stars/discourse/discourse?style=flat" width=100/></a>
+[Flarum](https://github.com/flarum/flarum)|[flarum.org](https://flarum.org/)|<a href=https://github.com/flarum/flarum><img src="https://img.shields.io/github/stars/flarum/flarum?style=flat" width=100/></a>
 [crowd.dev](https://github.com/CrowdDotDev/crowd.dev)|[crowd.dev](https://www.crowd.dev/)|<a href=https://github.com/CrowdDotDev/crowd.dev><img src="https://img.shields.io/github/stars/CrowdDotDev/crowd.dev?style=flat" width=100/></a>
 
 ### Kanban board (Trello alternatives):
@@ -152,6 +159,7 @@ List of open-source alternatives to everyday SaaS products.
 [NocoDB](https://github.com/nocodb/nocodb)|[nocodb.com](https://nocodb.com/)|<a href=https://github.com/nocodb/nocodb><img src="https://img.shields.io/github/stars/nocodb/nocodb?style=flat" width=100/></a>
 [Luckysheet](https://github.com/dream-num/Luckysheet)|[dream-num.github.io/LuckysheetDocs](https://dream-num.github.io/LuckysheetDocs/)|<a href=https://github.com/dream-num/Luckysheet><img src="https://img.shields.io/github/stars/dream-num/Luckysheet?style=flat" width=100/></a>
 [APITable](https://github.com/apitable/apitable)|[apitable.com](https://apitable.com/)|<a href=https://github.com/apitable/apitable><img src="https://img.shields.io/github/stars/apitable/apitable?style=flat" width=100/></a>
+[Grist](https://github.com/gristlabs/grist-core)|[https://www.getgrist.com/](https://www.getgrist.com/)|<a href="https://www.getgrist.com/"><img src="https://img.shields.io/github/stars/grist-core/grist-core?style=flat" width=100/></a>
 
 ### Team communication (Slack, Discord alternatives):
 |Company|Website|GitHub stars|
@@ -210,6 +218,7 @@ List of open-source alternatives to everyday SaaS products.
 |:-------|:------|:----------|
 [Bitwarden](https://github.com/bitwarden/clients)|[bitwarden.com](https://bitwarden.com/)|<a href=https://github.com/bitwarden/clients><img src="https://img.shields.io/github/stars/bitwarden/clients?style=flat" width=100/></a>
 [Padloc](https://github.com/padloc/padloc)|[padloc.app](https://padloc.app/)|<a href=https://github.com/padloc/padloc><img src="https://img.shields.io/github/stars/padloc/padloc?style=flat" width=100/></a>
+[Passbolt](https://github.com/passbolt/passbolt_api)|[passbolt.com](https://www.passbolt.com/)|<a href=https://github.com/passbolt/passbolt_api><img src="https://img.shields.io/github/stars/passbolt/passbolt_api?style=flat" width=100/></a>
 
 ### Email delivery (Mailgun, SendGrid alternatives):
 |Company|Website|GitHub stars|
@@ -232,8 +241,9 @@ List of open-source alternatives to everyday SaaS products.
 [Novu](https://github.com/novuhq/novu)|[novu.co](https://novu.co/)|<a href=https://github.com/novuhq/novu><img src="https://img.shields.io/github/stars/novuhq/novu?style=flat" width=100/></a>
 [ntfy](https://github.com/binwiederhier/ntfy)|[ntfy.sh](https://ntfy.sh/)|<a href=https://github.com/binwiederhier/ntfy><img src="https://img.shields.io/github/stars/binwiederhier/ntfy?style=flat" width=100/></a>
 [Apprise](https://github.com/caronc/apprise)|[hub.docker.com/r/caronc/apprise](https://hub.docker.com/r/caronc/apprise)|<a href=https://github.com/caronc/apprise><img src="https://img.shields.io/github/stars/caronc/apprise?style=flat" width=100/></a>
+[Gotify](https://github.com/gotify/server)|[gotify.net](https://gotify.net/)|<a href=https://github.com/gotify/server><img src="https://img.shields.io/github/stars/gotify/server?style=flat" width=100/></a>
 
-### API Development (Postman alternatives):
+### API development (Postman alternatives):
 |Company|Website|GitHub stars|
 |:-------|:------|:----------|
 [hoppscotch](https://github.com/hoppscotch/hoppscotch)|[hoppscotch.io](https://hoppscotch.io/)|<a href=https://github.com/hoppscotch/hoppscotch><img src="https://img.shields.io/github/stars/hoppscotch/hoppscotch?style=flat" width=100/></a>
@@ -260,8 +270,10 @@ List of open-source alternatives to everyday SaaS products.
 [Unleash](https://github.com/Unleash/unleash)|[getunleash.io](https://www.getunleash.io/)|<a href=https://github.com/Unleash/unleash><img src="https://img.shields.io/github/stars/Unleash/unleash?style=flat" width=100/></a>
 [Flagsmith](https://github.com/flagsmith/flagsmith)|[flagsmith.com](https://flagsmith.com)|<a href=https://github.com/flagsmith/flagsmith><img src="https://img.shields.io/github/stars/flagsmith/flagsmith?style=flat" width=100/></a>
 [Flagr](https://github.com/openflagr/flagr)|[openflagr.github.io/flagr/](https://openflagr.github.io/flagr/)|<a href=https://openflagr.github.io/flagr/#/><img src="https://img.shields.io/github/stars/openflagr/flagr?style=flat" width=100/></a>
+[FeatBit](https://github.com/featbit/featbit)|[featbit.co](https://www.featbit.co/)|<a href=https://github.com/featbit/featbit><img src="https://img.shields.io/github/stars/featbit/featbit?style=flat" width=100/></a>
 
-### Product Analytics (Mixpanel, Amptitude alternatives):
+
+### Product analytics (Mixpanel, Amptitude alternatives):
 |Company|Website|GitHub stars|
 |:-------|:------|:----------|
 [PostHog](https://github.com/PostHog/posthog)|[posthog.com](https://posthog.com/)|<a href=https://github.com/PostHog/posthog><img src="https://img.shields.io/github/stars/PostHog/posthog?style=flat" width=100/></a>
@@ -329,10 +341,22 @@ List of open-source alternatives to everyday SaaS products.
 [OpenTSDB](https://github.com/OpenTSDB/opentsdb)|[opentsdb.net](http://opentsdb.net/)|<a href=https://github.com/OpenTSDB/opentsdb><img src="https://img.shields.io/github/stars/OpenTSDB/opentsdb?style=flat" width=100/></a>
 [KairosDB](https://github.com/kairosdb/kairosdb)|[kairosdb.github.io](http://kairosdb.github.io/)|<a href=https://github.com/kairosdb/kairosdb><img src="https://img.shields.io/github/stars/kairosdb/kairosdb?style=flat" width=100/></a>
 
-### Document Signing (DocuSign alternatives):
+### Document signing (DocuSign alternatives):
 |Company|Website|GitHub stars|
 |:-------|:------|:----------|
 [Documenso](https://github.com/documenso/documenso)|[documenso.com](https://documenso.com/)|<a href=https://github.com/documenso/documenso><img src="https://img.shields.io/github/stars/documenso/documenso?style=flat" width=100/></a>
+
+### Workflow automation (Zapier alternatives):
+|Company|Website|GitHub stars|
+|:-------|:------|:----------|
+[Automatisch](https://github.com/automatisch/automatisch)|[automatisch.io](https://automatisch.io/)|<a href=https://github.com/automatisch/automatisch><img src="https://img.shields.io/github/stars/automatisch/automatisch?style=flat" width=100/></a>
+[Activepieces](https://github.com/activepieces/activepieces)|[activepieces.com](https://activepieces.com/)|<a href=https://github.com/activepieces/activepieces><img src="https://img.shields.io/github/stars/activepieces/activepieces?style=flat" width=100/></a>
+
+### Project Management (Asana, JIRA alternatives):
+|Company|Website|GitHub stars|
+|:-------|:------|:----------|
+[Plane](https://github.com/makeplane/plane)|[Plane.so](https://plane.so/)|<a href=https://github.com/makeplane/plane><img src="https://img.shields.io/github/stars/makeplane/plane?style=flat" width=100/></a>
+[Leantime](https://github.com/Leantime/leantime)|[leantime.io](https://leantime.io/)|<a href=https://github.com/Leantime/leantime><img src="https://img.shields.io/github/stars/Leantime/leantime?style=flat" width=100/></a>
 
 ## Criteria
 1. Product is open-source and repo is actively being maintained.
