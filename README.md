@@ -240,8 +240,8 @@ List of open-source alternatives to everyday SaaS products.
 |:-------|:------|:----------|
 [Novu](https://github.com/novuhq/novu)|[novu.co](https://novu.co/)|<a href=https://github.com/novuhq/novu><img src="https://img.shields.io/github/stars/novuhq/novu?style=flat" width=100/></a>
 [ntfy](https://github.com/binwiederhier/ntfy)|[ntfy.sh](https://ntfy.sh/)|<a href=https://github.com/binwiederhier/ntfy><img src="https://img.shields.io/github/stars/binwiederhier/ntfy?style=flat" width=100/></a>
-[Apprise](https://github.com/caronc/apprise)|[hub.docker.com/r/caronc/apprise](https://hub.docker.com/r/caronc/apprise)|<a href=https://github.com/caronc/apprise><img src="https://img.shields.io/github/stars/caronc/apprise?style=flat" width=100/></a>
 [Gotify](https://github.com/gotify/server)|[gotify.net](https://gotify.net/)|<a href=https://github.com/gotify/server><img src="https://img.shields.io/github/stars/gotify/server?style=flat" width=100/></a>
+[Apprise](https://github.com/caronc/apprise)|[hub.docker.com/r/caronc/apprise](https://hub.docker.com/r/caronc/apprise)|<a href=https://github.com/caronc/apprise><img src="https://img.shields.io/github/stars/caronc/apprise?style=flat" width=100/></a>
 
 ### API development (Postman alternatives):
 |Company|Website|GitHub stars|
