@@ -319,6 +319,11 @@ List of open-source alternatives to everyday SaaS products.
 [Crater](https://github.com/crater-invoice/crater)|[crater.financial](https://crater.financial/)|<a href=https://github.com/crater-invoice/crater><img src="https://img.shields.io/github/stars/crater-invoice/crater?style=flat" width=100/></a>
 [SolidInvoice](https://github.com/SolidInvoice/SolidInvoice)|[solidinvoice.co](https://solidinvoice.co/)|<a href=https://github.com/SolidInvoice/SolidInvoice><img src="https://img.shields.io/github/stars/SolidInvoice/SolidInvoice?style=flat" width=100/></a>
 
+### In-Memory Data Store:
+|Company|Website|GitHub stars|
+|:-------|:------|:----------|
+[Infinispan](http://github.com/infinispan/infinispan)|[infinispan.org](https://infinispan.org/)|<a href=https://github.com/infinispan/infinispan><img src="https://img.shields.io/github/stars/infinispan/infinispan?style=flat" width=100/></a>
+
 ### Graph database:
 |Company|Website|GitHub stars|
 |:-------|:------|:----------|
