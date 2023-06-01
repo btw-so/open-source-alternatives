@@ -27,8 +27,8 @@ List of open-source alternatives to everyday SaaS products.
 [ToolJet](https://github.com/tooljet/tooljet)|[tooljet.com](https://www.tooljet.com/)|<a href=https://github.com/tooljet/tooljet><img src="https://img.shields.io/github/stars/ToolJet/ToolJet?style=flat" width=100/></a>
 [Budibase](https://github.com/Budibase/budibase)|[budibase.com](https://budibase.com/)|<a href=https://github.com/Budibase/budibase><img src="https://img.shields.io/github/stars/Budibase/budibase?style=flat" width=100/></a>
 [ILLA](https://github.com/illacloud/illa-builder)|[illacloud.com](https://www.illacloud.com/)|<a href=https://github.com/illacloud/illa-builder><img src="https://img.shields.io/github/stars/illacloud/illa-builder?style=flat" width=100/></a>
-[Openblocks](https://github.com/openblocks-dev/openblocks)|[openblocks.dev](https://openblocks.dev/)|<a href=https://github.com/openblocks-dev/openblocks><img src="https://img.shields.io/github/stars/openblocks-dev/openblocks?style=flat" width=100/></a>
 [Windmill](https://github.com/windmill-labs/windmill)|[windmill.dev](https://www.windmill.dev/)|<a href=https://github.com/windmill-labs/windmill><img src="https://img.shields.io/github/stars/windmill-labs/windmill?style=flat" width=100/></a>
+[Openblocks](https://github.com/openblocks-dev/openblocks)|[openblocks.dev](https://openblocks.dev/)|<a href=https://github.com/openblocks-dev/openblocks><img src="https://img.shields.io/github/stars/openblocks-dev/openblocks?style=flat" width=100/></a>
 
 ### Web analytics (Google Analytics alternatives):
 |Company|Website|GitHub stars|
@@ -217,8 +217,8 @@ List of open-source alternatives to everyday SaaS products.
 |Company|Website|GitHub stars|
 |:-------|:------|:----------|
 [Bitwarden](https://github.com/bitwarden/clients)|[bitwarden.com](https://bitwarden.com/)|<a href=https://github.com/bitwarden/clients><img src="https://img.shields.io/github/stars/bitwarden/clients?style=flat" width=100/></a>
-[Padloc](https://github.com/padloc/padloc)|[padloc.app](https://padloc.app/)|<a href=https://github.com/padloc/padloc><img src="https://img.shields.io/github/stars/padloc/padloc?style=flat" width=100/></a>
 [Passbolt](https://github.com/passbolt/passbolt_api)|[passbolt.com](https://www.passbolt.com/)|<a href=https://github.com/passbolt/passbolt_api><img src="https://img.shields.io/github/stars/passbolt/passbolt_api?style=flat" width=100/></a>
+[Padloc](https://github.com/padloc/padloc)|[padloc.app](https://padloc.app/)|<a href=https://github.com/padloc/padloc><img src="https://img.shields.io/github/stars/padloc/padloc?style=flat" width=100/></a>
 
 ### Email delivery (Mailgun, SendGrid alternatives):
 |Company|Website|GitHub stars|
