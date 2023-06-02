@@ -249,6 +249,11 @@ List of open-source alternatives to everyday SaaS products.
 [hoppscotch](https://github.com/hoppscotch/hoppscotch)|[hoppscotch.io](https://hoppscotch.io/)|<a href=https://github.com/hoppscotch/hoppscotch><img src="https://img.shields.io/github/stars/hoppscotch/hoppscotch?style=flat" width=100/></a>
 [Insomnia](https://github.com/Kong/insomnia)|[insomnia.rest](https://insomnia.rest/)|<a href=https://github.com/Kong/insomnia><img src="https://img.shields.io/github/stars/Kong/insomnia?style=flat" width=100/></a>
 
+### API Registry (Schema Registry alternatives):
+|Company|Website|GitHub stars|
+|:-------|:------|:----------|
+[Apicurio](https://github.com/apicurio/apicurio-registry)|[hoppscotch.io](https://www.apicur.io/)|<a href=https://github.com/apicurio/apicurio-registry><img src="https://img.shields.io/github/stars/apicurio/apicurio-registry?style=flat" width=100/></a>
+
 ### Programmatic videos:
 |Company|Website|GitHub stars|
 |:-------|:------|:----------|
