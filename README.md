@@ -363,6 +363,11 @@ List of open-source alternatives to everyday SaaS products.
 |:-------|:------|:----------|
 [Ghostfolio](https://github.com/ghostfolio/ghostfolio)|[Ghostfol.io](https://ghostfol.io)|<a href=https://github.com/ghostfolio/ghostfolio><img src="https://img.shields.io/github/stars/ghostfolio/ghostfolio?style=flat" width=100/></a>
 
+### Personal Budget and Financial Transaction Manager (Mint, Quicken, YNAB alternatives):
+|Company|Website|GitHub stars|
+|:-------|:------|:----------|
+[Firefly III](https://github.com/firefly-iii/firefly-iii)|[firefly-iii.org](https://firefly-iii.org)|<a href=https://github.com/firefly-iii/firefly-iii><img src="https://img.shields.io/github/stars/firefly-iii/firefly-iii?style=flat" width=100/></a>
+
 ## Criteria
 1. Product is open-source and repo is actively being maintained.
 3. It is a product (not a library) and ideally has a popular closed-source alternative.
