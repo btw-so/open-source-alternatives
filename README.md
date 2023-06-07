@@ -67,9 +67,9 @@ List of open-source alternatives to everyday SaaS products.
 |:-------|:------|:----------|
 [Hugo](https://github.com/gohugoio/hugo)|[gohugo.io](https://gohugo.io/)|<a href=https://github.com/gohugoio/hugo><img src="https://img.shields.io/github/stars/gohugoio/hugo?style=flat" width=100/></a>
 [Jekyll](https://github.com/jekyll/jekyll)|[jekyllrb.com](https://jekyllrb.com/)|<a href=https://github.com/jekyll/jekyll><img src="https://img.shields.io/github/stars/jekyll/jekyll?style=flat" width=100/></a>
+[Astro](https://github.com/withastro/astro)|[astro.build](https://astro.build/)|<a href=https://github.com/withastro/astro><img src="https://img.shields.io/github/stars/withastro/astro?style=flat" width=100/></a>
 [11ty](https://github.com/11ty/eleventy)|[11ty.dev](https://www.11ty.dev/)|<a href=https://github.com/11ty/eleventy><img src="https://img.shields.io/github/stars/11ty/eleventy?style=flat" width=100/></a>
 [Zola](https://github.com/getzola/zola)|[getzola.org](https://getzola.org/)|<a href=https://github.com/getzola/zola><img src="https://img.shields.io/github/stars/getzola/zola?style=flat" width=100/></a>
-[Astro](https://github.com/withastro/astro)|[astro.build](https://astro.build/)|<a href=https://github.com/withastro/astro><img src="https://img.shields.io/github/stars/withastro/astro?style=flat" width=100/></a>
 
 ### Website builder (Wix, Strikingly, Webflow alternatives):
 |Company|Website|GitHub stars|
@@ -210,11 +210,11 @@ List of open-source alternatives to everyday SaaS products.
 ### Online store builder (Shopify alternatives):
 |Company|Website|GitHub stars|
 |:-------|:------|:----------|
+[Medusa](https://github.com/medusajs/medusa)|[medusajs.com](https://medusajs.com/)|<a href=https://github.com/medusajs/medusa><img src="https://img.shields.io/github/stars/medusajs/medusa?style=flat" width=100/></a>
 [Vue Storefront](https://github.com/vuestorefront/vue-storefront)|[vuestorefront.io](https://vuestorefront.io/)|<a href=https://github.com/vuestorefront/vue-storefront><img src="https://img.shields.io/github/stars/vuestorefront/vue-storefront?style=flat" width=100/></a>
 [Sylius](https://github.com/sylius/sylius)|[sylius.com](https://sylius.com/)|<a href=https://github.com/sylius/sylius><img src="https://img.shields.io/github/stars/Sylius/Sylius?style=flat" width=100/></a>
 [Presta](https://github.com/PrestaShop/PrestaShop)|[prestashop-project.org](https://www.prestashop-project.org/)|<a href=https://github.com/PrestaShop/PrestaShop><img src="https://img.shields.io/github/stars/PrestaShop/PrestaShop?style=flat" width=100/></a>
 [Bagisto](https://github.com/bagisto/bagisto)|[bagisto.com](https://bagisto.com/)|<a href=https://github.com/bagisto/bagisto><img src="https://img.shields.io/github/stars/bagisto/bagisto?style=flat" width=100/></a>
-[Medusa](https://github.com/medusajs/medusa)|[medusajs.com](https://medusajs.com/)|<a href=https://github.com/medusajs/medusa><img src="https://img.shields.io/github/stars/medusajs/medusa?style=flat" width=100/></a>
 
 ### Password manager (1Password alternatives):
 |Company|Website|GitHub stars|
