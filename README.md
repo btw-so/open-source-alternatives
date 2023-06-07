@@ -69,12 +69,14 @@ List of open-source alternatives to everyday SaaS products.
 [Jekyll](https://github.com/jekyll/jekyll)|[jekyllrb.com](https://jekyllrb.com/)|<a href=https://github.com/jekyll/jekyll><img src="https://img.shields.io/github/stars/jekyll/jekyll?style=flat" width=100/></a>
 [11ty](https://github.com/11ty/eleventy)|[11ty.dev](https://www.11ty.dev/)|<a href=https://github.com/11ty/eleventy><img src="https://img.shields.io/github/stars/11ty/eleventy?style=flat" width=100/></a>
 [Zola](https://github.com/getzola/zola)|[getzola.org](https://getzola.org/)|<a href=https://github.com/getzola/zola><img src="https://img.shields.io/github/stars/getzola/zola?style=flat" width=100/></a>
+[Astro](https://github.com/withastro/astro)|[astro.build](https://astro.build/)|<a href=https://github.com/withastro/astro><img src="https://img.shields.io/github/stars/withastro/astro?style=flat" width=100/></a>
 
 ### Website builder (Wix, Strikingly, Webflow alternatives):
 |Company|Website|GitHub stars|
 |:-------|:------|:----------|
 [Silex](https://github.com/silexlabs/Silex)|[silex.me](https://www.silex.me/)|<a href=https://github.com/silexlabs/Silex><img src="https://img.shields.io/github/stars/silexlabs/Silex?style=flat" width=100/></a>
 [DoTenX](https://github.com/dotenx/dotenx)|[dotenx.com](https://dotenx.com/)|<a href=https://github.com/dotenx/dotenx><img src="https://img.shields.io/github/stars/dotenx/dotenx?style=flat" width=100/></a>
+[Webstudio](https://github.com/webstudio-is/webstudio)|[webstudio.is](https://webstudio.is/)|<a href=https://github.com/webstudio-is/webstudio><img src="https://img.shields.io/github/stars/webstudio-is/webstudio?style=flat" width=100/></a>
 
 ### Icons (Noun Project alternatives):
 |Company|Website|GitHub stars|
@@ -212,6 +214,7 @@ List of open-source alternatives to everyday SaaS products.
 [Sylius](https://github.com/sylius/sylius)|[sylius.com](https://sylius.com/)|<a href=https://github.com/sylius/sylius><img src="https://img.shields.io/github/stars/Sylius/Sylius?style=flat" width=100/></a>
 [Presta](https://github.com/PrestaShop/PrestaShop)|[prestashop-project.org](https://www.prestashop-project.org/)|<a href=https://github.com/PrestaShop/PrestaShop><img src="https://img.shields.io/github/stars/PrestaShop/PrestaShop?style=flat" width=100/></a>
 [Bagisto](https://github.com/bagisto/bagisto)|[bagisto.com](https://bagisto.com/)|<a href=https://github.com/bagisto/bagisto><img src="https://img.shields.io/github/stars/bagisto/bagisto?style=flat" width=100/></a>
+[Medusa](https://github.com/medusajs/medusa)|[medusajs.com](https://medusajs.com/)|<a href=https://github.com/medusajs/medusa><img src="https://img.shields.io/github/stars/medusajs/medusa?style=flat" width=100/></a>
 
 ### Password manager (1Password alternatives):
 |Company|Website|GitHub stars|
@@ -271,7 +274,6 @@ List of open-source alternatives to everyday SaaS products.
 [Flagsmith](https://github.com/flagsmith/flagsmith)|[flagsmith.com](https://flagsmith.com)|<a href=https://github.com/flagsmith/flagsmith><img src="https://img.shields.io/github/stars/flagsmith/flagsmith?style=flat" width=100/></a>
 [Flagr](https://github.com/openflagr/flagr)|[openflagr.github.io/flagr/](https://openflagr.github.io/flagr/)|<a href=https://openflagr.github.io/flagr/#/><img src="https://img.shields.io/github/stars/openflagr/flagr?style=flat" width=100/></a>
 [FeatBit](https://github.com/featbit/featbit)|[featbit.co](https://www.featbit.co/)|<a href=https://github.com/featbit/featbit><img src="https://img.shields.io/github/stars/featbit/featbit?style=flat" width=100/></a>
-
 
 ### Product analytics (Mixpanel, Amptitude alternatives):
 |Company|Website|GitHub stars|
