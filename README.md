@@ -215,6 +215,7 @@ List of open-source alternatives to everyday SaaS products.
 [Sylius](https://github.com/sylius/sylius)|[sylius.com](https://sylius.com/)|<a href=https://github.com/sylius/sylius><img src="https://img.shields.io/github/stars/Sylius/Sylius?style=flat" width=100/></a>
 [Presta](https://github.com/PrestaShop/PrestaShop)|[prestashop-project.org](https://www.prestashop-project.org/)|<a href=https://github.com/PrestaShop/PrestaShop><img src="https://img.shields.io/github/stars/PrestaShop/PrestaShop?style=flat" width=100/></a>
 [Bagisto](https://github.com/bagisto/bagisto)|[bagisto.com](https://bagisto.com/)|<a href=https://github.com/bagisto/bagisto><img src="https://img.shields.io/github/stars/bagisto/bagisto?style=flat" width=100/></a>
+[Litekart](https://github.com/itswadesh/svelte-commerce)|[litekart.in](https://litekart.in/)|<a href=https://github.com/itswadesh/svelte-commerce><img src="https://img.shields.io/github/stars/itswadesh/svelte-commerce?style=flat" width=100/></a>
 
 ### Password manager (1Password alternatives):
 |Company|Website|GitHub stars|
