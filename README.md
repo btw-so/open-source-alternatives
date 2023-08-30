@@ -269,6 +269,7 @@ List of open-source alternatives to everyday SaaS products.
 |Company|Website|GitHub stars|
 |:-------|:------|:----------|
 [doccano](https://github.com/doccano/doccano)|[doccano.herokuapp.com](https://doccano.herokuapp.com/)|<a href=https://github.com/doccano/doccano><img src="https://img.shields.io/github/stars/doccano/doccano?style=flat" width=100/></a>
+[NER Annotator for spaCy](https://github.com/tecoholic/ner-annotator)|[tecoholic.github.io/ner-annotator/](https://tecoholic.github.io/ner-annotator/)|<a href=https://github.com/tecoholic/ner-annotator><img src="https://img.shields.io/github/stars/tecoholic/ner-annotator?style=flat" width=100/></a>
 
 ### Feature management/ Feature flag:
 |Company|Website|GitHub stars|
