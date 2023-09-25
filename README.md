@@ -374,6 +374,11 @@ List of open-source alternatives to everyday SaaS products.
 |:-------|:------|:----------|
 [Twenty](https://github.com/twentyhq/twenty)|[Twenty.com](https://twenty.com)|<a href=https://github.com/twentyhq/twenty><img src="https://img.shields.io/github/stars/twentyhq/twenty?style=flat" width=100/></a>
 
+### Integration Platform (Tray.io, Merge.dev alternatives)
+|Company|Website|GitHub stars|
+|:-------|:------|:----------|
+[Revert](https://github.com/revertinc/revert)|[revert.dev](https://revert.dev)|<a href=https://github.com/revertinc/revert><img src="https://img.shields.io/github/stars/revertinc/revert?style=flat" width=100/></a>
+
 
 ## Criteria
 1. Product is open-source and repo is actively being maintained.
