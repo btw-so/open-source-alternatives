@@ -223,6 +223,7 @@ List of open-source alternatives to everyday SaaS products.
 [Bitwarden](https://github.com/bitwarden/clients)|[bitwarden.com](https://bitwarden.com/)|<a href=https://github.com/bitwarden/clients><img src="https://img.shields.io/github/stars/bitwarden/clients?style=flat" width=100/></a>
 [Passbolt](https://github.com/passbolt/passbolt_api)|[passbolt.com](https://www.passbolt.com/)|<a href=https://github.com/passbolt/passbolt_api><img src="https://img.shields.io/github/stars/passbolt/passbolt_api?style=flat" width=100/></a>
 [Padloc](https://github.com/padloc/padloc)|[padloc.app](https://padloc.app/)|<a href=https://github.com/padloc/padloc><img src="https://img.shields.io/github/stars/padloc/padloc?style=flat" width=100/></a>
+[Passbolt](https://github.com/passbolt/passbolt_api)|[passbolt.com](https://www.passbolt.com/)|<a href=https://github.com/passbolt/passbolt_api><img src="https://img.shields.io/github/stars/passbolt/passbolt_api?style=flat" width=100/></a>
 
 ### Email delivery (Mailgun, SendGrid alternatives):
 |Company|Website|GitHub stars|
@@ -238,6 +239,8 @@ List of open-source alternatives to everyday SaaS products.
 |Company|Website|GitHub stars|
 |:-------|:------|:----------|
 [Uppy](https://github.com/transloadit/uppy)|[uppy.io](https://uppy.io/)|<a href=https://github.com/transloadit/uppy><img src="https://img.shields.io/github/stars/transloadit/uppy?style=flat" width=100/></a>
+[Pingvin](https://github.com/stonith404/pingvin-share)|[hub.docker.com/r/stonith404/pingvin-share](https://hub.docker.com/r/stonith404/pingvin-share/)|<a href=https://github.com/stonith404/pingvin-share><img src="https://img.shields.io/github/stars/stonith404/pingvin-share?style=flat" width=100/></a>
+
 
 ### Notification infrastructure:
 |Company|Website|GitHub stars|
@@ -246,6 +249,7 @@ List of open-source alternatives to everyday SaaS products.
 [ntfy](https://github.com/binwiederhier/ntfy)|[ntfy.sh](https://ntfy.sh/)|<a href=https://github.com/binwiederhier/ntfy><img src="https://img.shields.io/github/stars/binwiederhier/ntfy?style=flat" width=100/></a>
 [Gotify](https://github.com/gotify/server)|[gotify.net](https://gotify.net/)|<a href=https://github.com/gotify/server><img src="https://img.shields.io/github/stars/gotify/server?style=flat" width=100/></a>
 [Apprise](https://github.com/caronc/apprise)|[hub.docker.com/r/caronc/apprise](https://hub.docker.com/r/caronc/apprise)|<a href=https://github.com/caronc/apprise><img src="https://img.shields.io/github/stars/caronc/apprise?style=flat" width=100/></a>
+[Gotify](https://github.com/gotify/server)|[gotify.net](https://gotify.net/)|<a href=https://github.com/gotify/server><img src="https://img.shields.io/github/stars/gotify/server?style=flat" width=100/></a>
 
 ### API development (Postman alternatives):
 |Company|Website|GitHub stars|
