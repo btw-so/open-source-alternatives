@@ -380,6 +380,11 @@ List of open-source alternatives to everyday SaaS products.
 [Revert](https://github.com/revertinc/revert)|[revert.dev](https://revert.dev)|<a href=https://github.com/revertinc/revert><img src="https://img.shields.io/github/stars/revertinc/revert?style=flat" width=100/></a>
 
 
+### Streaming music player (Spotify alternatives):
+|Company|Website|GitHub stars|
+|:-------|:------|:----------|
+[nuclear](https://github.com/nukeop/nuclear)|[nuclear.js.org](https://nuclear.js.org/)|<a href=https://github.com/nukeop/nuclear><img src="https://img.shields.io/github/stars/nukeop/nuclear?style=flat" width=100/></a>
+
 ## Criteria
 1. Product is open-source and repo is actively being maintained.
 3. It is a product (not a library) and ideally has a popular closed-source alternative.
