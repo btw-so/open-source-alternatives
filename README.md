@@ -316,6 +316,7 @@ List of open-source alternatives to everyday SaaS products.
 |Company|Website|GitHub stars|
 |:-------|:------|:----------|
 [Bugzilla](https://github.com/bugzilla/bugzilla)|[bugzilla.org](https://www.bugzilla.org/)|<a href=https://github.com/bugzilla/bugzilla><img src="https://img.shields.io/github/stars/bugzilla/bugzilla?style=flat" width=100/></a>
+[GlitchTip](https://gitlab.com/glitchtip)|[glitchtip.com](https://glitchtip.com/)|
 
 ### Invoicing:
 |Company|Website|GitHub stars|
