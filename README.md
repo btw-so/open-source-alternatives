@@ -29,6 +29,7 @@ List of open-source alternatives to everyday SaaS products.
 [ILLA](https://github.com/illacloud/illa-builder)|[illacloud.com](https://www.illacloud.com/)|<a href=https://github.com/illacloud/illa-builder><img src="https://img.shields.io/github/stars/illacloud/illa-builder?style=flat" width=100/></a>
 [Windmill](https://github.com/windmill-labs/windmill)|[windmill.dev](https://www.windmill.dev/)|<a href=https://github.com/windmill-labs/windmill><img src="https://img.shields.io/github/stars/windmill-labs/windmill?style=flat" width=100/></a>
 [Openblocks](https://github.com/openblocks-dev/openblocks)|[openblocks.dev](https://openblocks.dev/)|<a href=https://github.com/openblocks-dev/openblocks><img src="https://img.shields.io/github/stars/openblocks-dev/openblocks?style=flat" width=100/></a>
+[DashPress](https://github.com/dashpresshq/dashpress)|[dashpress.io](https://dashpress.io/)|<a href=https://github.com/dashpresshq/dashpress><img src="https://img.shields.io/github/stars/dashpresshq/dashpress?style=flat" width=100/></a>
 
 ### Web analytics (Google Analytics alternatives):
 |Company|Website|GitHub stars|
