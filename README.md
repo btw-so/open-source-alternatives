@@ -196,6 +196,7 @@ List of open-source alternatives to everyday SaaS products.
 [Supabase](https://github.com/supabase/supabase)|[supabase.com](https://supabase.com/)|<a href=https://github.com/supabase/supabase><img src="https://img.shields.io/github/stars/supabase/supabase?style=flat" width=100/></a>
 [Appwrite](https://github.com/appwrite/appwrite)|[appwrite.io](https://appwrite.io/)|<a href=https://github.com/appwrite/appwrite><img src="https://img.shields.io/github/stars/appwrite/appwrite?style=flat" width=100/></a>
 [Nhost](https://github.com/nhost/nhost)|[nhost.io](https://nhost.io/)|<a href=https://github.com/nhost/nhost><img src="https://img.shields.io/github/stars/nhost/nhost?style=flat" width=100/></a>
+[CASE](https://github.com/casejs/case)|[case.app](https://case.app)|<a href=https://github.com/casejs/case><img src="https://img.shields.io/github/stars/casejs/case?style=flat" width=100/></a>
 
 ### Customer data platform/ CDP (Segment alternatives):
 |Company|Website|GitHub stars|
