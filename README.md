@@ -143,6 +143,8 @@ List of open-source alternatives to everyday SaaS products.
 [Mastodon](https://github.com/mastodon/mastodon)|[joinmastodon.org](https://joinmastodon.org/)|<a href=https://github.com/mastodon/mastodon><img src="https://img.shields.io/github/stars/mastodon/mastodon?style=flat" width=100/></a>
 [HumHub](https://github.com/humhub/humhub)|[humhub.com](https://www.humhub.com/)|<a href=https://github.com/humhub/humhub><img src="https://img.shields.io/github/stars/humhub/humhub?style=flat" width=100/></a>
 [Elgg](https://github.com/elgg/elgg)|[elgg.org](https://elgg.org/)|<a href=https://github.com/elgg/elgg><img src="https://img.shields.io/github/stars/Elgg/Elgg?style=flat" width=100/></a>
+[Nostr](https://github.com/nostr-protocol/nostr)|[nostr.com](https://nostr.com/)|<a href=https://github.com/nostr-protocol/nostr><img src="https://img.shields.io/github/stars/nostr-protocol/nostr?style=flat" width=100/></a>
+
 
 ### Ticket management (Zendesk, Freshdesk alternatives):
 |Company|Website|GitHub stars|
