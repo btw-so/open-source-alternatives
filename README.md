@@ -364,6 +364,12 @@ List of open-source alternatives to everyday SaaS products.
 [Plane](https://github.com/makeplane/plane)|[Plane.so](https://plane.so/)|<a href=https://github.com/makeplane/plane><img src="https://img.shields.io/github/stars/makeplane/plane?style=flat" width=100/></a>
 [Leantime](https://github.com/Leantime/leantime)|[leantime.io](https://leantime.io/)|<a href=https://github.com/Leantime/leantime><img src="https://img.shields.io/github/stars/Leantime/leantime?style=flat" width=100/></a>
 
+### Time Tracking (Toggl, Clockify alternatives)
+|Company|Website|GitHub stars|
+|:-------|:------|:----------|
+[Kimai](https://github.com/kimai/kimai)|[www.kimai.org](https://www.kimai.org/)|<a href="https://github.com/kimai/kimai"><img src="https://img.shields.io/github/stars/kimai/kimai?style=flat" width=100/></a>
+[solidtime](https://github.com/solidtime-io/solidtime)|[solidtime.io](https://www.solidtime.io/)|<a href=https://github.com/Leantime/leantime><img src="https://img.shields.io/github/stars/solidtime-io/solidtime?style=flat" width=100/></a>
+
 ### Personal finance (Empower Personal Wealth alternatives):
 |Company|Website|GitHub stars|
 |:-------|:------|:----------|
