@@ -19,6 +19,7 @@ List of open-source alternatives to everyday SaaS products.
 |:-------|:------|:----------|
 [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)|[appflowy.io](https://appflowy.io/)|<a href=https://github.com/AppFlowy-IO/AppFlowy><img src="https://img.shields.io/github/stars/AppFlowy-IO/AppFlowy?style=flat" width=100/></a>
 [AFFiNE](https://github.com/toeverything/AFFiNE)|[affine.pro](https://affine.pro/)|<a href=https://github.com/toeverything/AFFiNE><img src="https://img.shields.io/github/stars/toeverything/AFFiNE?style=flat" width=100/></a>
+[docmost](https://github.com/docmost/docmost)|[docmost.com](https://docmost.com/)|<a href=https://github.com/docmost/docmost><img src="https://img.shields.io/github/stars/docmost/docmost?style=flat" width=100/></a>
 
 ### Internal tools (Retool alternatives):
 |Company|Website|GitHub stars|
