@@ -347,6 +347,7 @@ List of open-source alternatives to everyday SaaS products.
 [QuestDB](https://github.com/questdb/questdb)|[questdb.io](https://questdb.io/)|<a href=https://github.com/questdb/questdb><img src="https://img.shields.io/github/stars/questdb/questdb?style=flat" width=100/></a>
 [OpenTSDB](https://github.com/OpenTSDB/opentsdb)|[opentsdb.net](http://opentsdb.net/)|<a href=https://github.com/OpenTSDB/opentsdb><img src="https://img.shields.io/github/stars/OpenTSDB/opentsdb?style=flat" width=100/></a>
 [KairosDB](https://github.com/kairosdb/kairosdb)|[kairosdb.github.io](http://kairosdb.github.io/)|<a href=https://github.com/kairosdb/kairosdb><img src="https://img.shields.io/github/stars/kairosdb/kairosdb?style=flat" width=100/></a>
+[SiriDB](https://github.com/SiriDB/siridb-server)|[siridb.net](https://siridb.net)|<a href=https://github.com/SiriDB/siridb-server><img src="https://img.shields.io/github/stars/SiriDB/siridb-server?style=flat" width=100/></a>
 
 ### Document signing (DocuSign alternatives):
 |Company|Website|GitHub stars|
