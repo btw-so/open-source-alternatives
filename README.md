@@ -186,6 +186,7 @@ List of open-source alternatives to everyday SaaS products.
 [Keycloak](https://github.com/keycloak/keycloak)|[keycloak.org](https://www.keycloak.org/)|<a href=https://github.com/keycloak/keycloak><img src="https://img.shields.io/github/stars/keycloak/keycloak?style=flat" width=100/></a>
 [SuperTokens](https://github.com/supertokens/supertokens-core)|[supertokens.com](https://supertokens.com/)|<a href=https://github.com/supertokens/supertokens-core><img src="https://img.shields.io/github/stars/supertokens/supertokens-core?style=flat" width=100/></a>
 [Logto](https://github.com/logto-io/logto)|[logto.io](https://logto.io/)|<a href=https://github.com/logto-io/logto><img src="https://img.shields.io/github/stars/logto-io/logto?style=flat" width=100/></a>
+[Keycloak](https://github.com/keycloak/keycloak)|[keycloak.org](https://heycloak.org/)|<a href=https://github.com/keycloak/keycloak><img src="https://img.shields.io/github/stars/keycloak/keycloak?style=flat" width=100/></a>
 
 ### Digital search experience (Algolia alternatives):
 |Company|Website|GitHub stars|
@@ -261,6 +262,11 @@ List of open-source alternatives to everyday SaaS products.
 |Company|Website|GitHub stars|
 |:-------|:------|:----------|
 [Remotion](https://github.com/remotion-dev/remotion)|[remotion.dev](https://www.remotion.dev/)|<a href=https://github.com/remotion-dev/remotion><img src="https://img.shields.io/github/stars/remotion-dev/remotion?style=flat" width=100/></a>
+
+### Distributed In-Memory Cache (Redis/Hazelcast alternatives):
+|Company|Website|GitHub stars|
+|:------|:------|:-----------|
+[Infinispan](https://github.com/infinispan)|[Infinispan.org](https://infinispan.org/)|<a href=https://github.com/remotion-dev/remotion><img src="https://img.shields.io/github/stars/infinispan/infinispan?style=flat" width=100/></a>|
 
 ### Data warehouse (Snowflake alternatives):
 |Company|Website|GitHub stars|
