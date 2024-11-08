@@ -257,6 +257,11 @@ List of open-source alternatives to everyday SaaS products.
 [Firecamp](https://github.com/firecamp-dev/firecamp)|[firecamp.dev](https://firecamp.dev)|<a href=https://github.com/firecamp-dev/firecamp><img src="https://img.shields.io/github/stars/firecamp-dev/firecamp?style=flat" width=100/></a>
 
 
+### API Registry (Schema Registry alternatives):
+|Company|Website|GitHub stars|
+|:-------|:------|:----------|
+[Apicurio](https://github.com/apicurio/apicurio-registry)|[hoppscotch.io](https://www.apicur.io/)|<a href=https://github.com/apicurio/apicurio-registry><img src="https://img.shields.io/github/stars/apicurio/apicurio-registry?style=flat" width=100/></a>
+
 ### Programmatic videos:
 |Company|Website|GitHub stars|
 |:-------|:------|:----------|
