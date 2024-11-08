@@ -387,6 +387,11 @@ List of open-source alternatives to everyday SaaS products.
 |:-------|:------|:----------|
 [Revert](https://github.com/revertinc/revert)|[revert.dev](https://revert.dev)|<a href=https://github.com/revertinc/revert><img src="https://img.shields.io/github/stars/revertinc/revert?style=flat" width=100/></a>
 
+### Online Survey Platform (SurveyMonkey, Qualtrics alternatives)
+|Company|Website|GitHub stars|
+|:-------|:------|:----------|
+[LimeSurvey](https://github.com/LimeSurvey/LimeSurvey)|[limesurvey.org](https://www.limesurvey.org)|<a href=https://github.com/LimeSurvey/LimeSurvey><img src="https://img.shields.io/github/stars/LimeSurvey/LimeSurvey?style=flat" width=100/></a>
+
 
 ## Criteria
 1. Product is open-source and repo is actively being maintained.
