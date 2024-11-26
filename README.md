@@ -284,6 +284,7 @@ List of open-source alternatives to everyday SaaS products.
 |Company|Website|GitHub stars|
 |:-------|:------|:----------|
 [PostHog](https://github.com/PostHog/posthog)|[posthog.com](https://posthog.com/)|<a href=https://github.com/PostHog/posthog><img src="https://img.shields.io/github/stars/PostHog/posthog?style=flat" width=100/></a>
+[Trench](https://github.com/FrigadeHQ/trench)|[trench.dev](https://trench.dev/)|<a href=https://github.com/FrigadeHQ/trench><img src="https://img.shields.io/github/stars/FrigadeHQ/trench?style=flat" width=100/></a>
 
 ### Video conferencing (Google Meet, Skype alternatives):
 |Company|Website|GitHub stars|
