@@ -392,6 +392,10 @@ List of open-source alternatives to everyday SaaS products.
 |:-------|:------|:----------|
 [LimeSurvey](https://github.com/LimeSurvey/LimeSurvey)|[limesurvey.org](https://www.limesurvey.org)|<a href=https://github.com/LimeSurvey/LimeSurvey><img src="https://img.shields.io/github/stars/LimeSurvey/LimeSurvey?style=flat" width=100/></a>
 
+### Infrastructure as Code Automation (Terraform Cloud alternatives):
+|Company|Website|GitHub stars|
+|:-------|:------|:----------|
+[Terrateam](https://github.com/terrateamio/terrateam)|[terrateam.io](https://terrateam.io/)|<a href=https://github.com/terrateamio/terrateam><img src="https://img.shields.io/github/stars/terrateamio/terrateam?style=flat" width=100/></a>
 
 ## Criteria
 1. Product is open-source and repo is actively being maintained.
