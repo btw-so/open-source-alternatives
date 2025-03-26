@@ -190,6 +190,7 @@ List of open-source alternatives to everyday SaaS products.
 ### Digital search experience (Algolia alternatives):
 |Company|Website|GitHub stars|
 |:-------|:------|:----------|
+[Meilisearch](https://github.com/meilisearch/meilisearch)|[meilisearch.com](https://www.meilisearch.com/)|<a href=[https://github.com/typesense/typesense](https://github.com/meilisearch/meilisearch)><img src="https://img.shields.io/github/stars/meilisearch/meilisearch?style=flat" width=100/></a>
 [Typesense](https://github.com/typesense/typesense)|[typesense.org](https://typesense.org/)|<a href=https://github.com/typesense/typesense><img src="https://img.shields.io/github/stars/typesense/typesense?style=flat" width=100/></a>
 
 ### Backend-as-a-Service (Firebase alternatives):
