@@ -186,6 +186,7 @@ List of open-source alternatives to everyday SaaS products.
 [Keycloak](https://github.com/keycloak/keycloak)|[keycloak.org](https://www.keycloak.org/)|<a href=https://github.com/keycloak/keycloak><img src="https://img.shields.io/github/stars/keycloak/keycloak?style=flat" width=100/></a>
 [SuperTokens](https://github.com/supertokens/supertokens-core)|[supertokens.com](https://supertokens.com/)|<a href=https://github.com/supertokens/supertokens-core><img src="https://img.shields.io/github/stars/supertokens/supertokens-core?style=flat" width=100/></a>
 [Logto](https://github.com/logto-io/logto)|[logto.io](https://logto.io/)|<a href=https://github.com/logto-io/logto><img src="https://img.shields.io/github/stars/logto-io/logto?style=flat" width=100/></a>
+[Authgear](https://github.com/authgear/authgear-server)|[authgear.com](https://www.authgear.com)|<a href=https://github.com/authgear/authgear-server><img src="https://img.shields.io/github/stars/authgear/authgear-server?style=flat" width=100/></a>
 
 ### Digital search experience (Algolia alternatives):
 |Company|Website|GitHub stars|
