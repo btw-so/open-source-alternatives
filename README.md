@@ -142,6 +142,7 @@ List of open-source alternatives to everyday SaaS products.
 ### Social network/ Micro-blogging (Twitter alternatives):
 |Company|Website|GitHub stars|
 |:-------|:------|:----------|
+[Bluesky](https://github.com/bluesky-social/social-app)|[bsky.app](https://bsky.app/)|<a href=https://github.com/bluesky-social/social-app><img src="https://img.shields.io/github/stars/bluesky-social/social-app?style=flat" width=100/></a>
 [Mastodon](https://github.com/mastodon/mastodon)|[joinmastodon.org](https://joinmastodon.org/)|<a href=https://github.com/mastodon/mastodon><img src="https://img.shields.io/github/stars/mastodon/mastodon?style=flat" width=100/></a>
 [HumHub](https://github.com/humhub/humhub)|[humhub.com](https://www.humhub.com/)|<a href=https://github.com/humhub/humhub><img src="https://img.shields.io/github/stars/humhub/humhub?style=flat" width=100/></a>
 [Elgg](https://github.com/elgg/elgg)|[elgg.org](https://elgg.org/)|<a href=https://github.com/elgg/elgg><img src="https://img.shields.io/github/stars/Elgg/Elgg?style=flat" width=100/></a>
