@@ -32,6 +32,11 @@ List of open-source alternatives to everyday SaaS products.
 [Openblocks](https://github.com/openblocks-dev/openblocks)|[openblocks.dev](https://openblocks.dev/)|<a href=https://github.com/openblocks-dev/openblocks><img src="https://img.shields.io/github/stars/openblocks-dev/openblocks?style=flat" width=100/></a>
 [DashPress](https://github.com/dashpresshq/dashpress)|[dashpress.io](https://dashpress.io/)|<a href=https://github.com/dashpresshq/dashpress><img src="https://img.shields.io/github/stars/dashpresshq/dashpress?style=flat" width=100/></a>
 
+### Raster Graphics Editor (Photoshop alternatives):
+|Company|Website|GitHub stars|
+|:-------|:------|:----------|
+[GIMP](https://github.com/GNOME/gimp)|[gimp.org](https://www.gimp.org/)|<a href=https://github.com/GNOME/gimp><img src="https://img.shields.io/github/stars/GNOME/gimp?style=flat" width=100/></a>
+
 ### Web analytics (Google Analytics alternatives):
 |Company|Website|GitHub stars|
 |:-------|:------|:----------|
@@ -85,6 +90,7 @@ List of open-source alternatives to everyday SaaS products.
 |:-------|:------|:----------|
 [Font-Awesome](https://github.com/FortAwesome/Font-Awesome)|[fontawesome.com](https://fontawesome.com/)|<a href=https://github.com/FortAwesome/Font-Awesome><img src="https://img.shields.io/github/stars/FortAwesome/Font-Awesome?style=flat" width=100/></a>
 [feather](https://github.com/feathericons/feather)|[feathericons.com](https://feathericons.com/)|<a href=https://github.com/feathericons/feather><img src="https://img.shields.io/github/stars/feathericons/feather?style=flat" width=100/></a>
+[HeroIcons](https://github.com/tailwindlabs/heroicons)|[heroicons.com](https://heroicons.com)|<a href=https://github.com/tailwindlabs/heroicons><img src="https://img.shields.io/github/stars/tailwindlabs/heroicons?style=flat" width=100/></a>
 [Tabler-Icons](https://github.com/tabler/tabler-icons)|[tabler-icons.io](https://tabler-icons.io/)|<a href=[https://github.com/Remix-Design/RemixIcon](https://github.com/tabler/tabler-icons)><img src="https://img.shields.io/github/stars/tabler/tabler-icons?style=flat" width=100/></a>
 [Bootstrap](https://github.com/twbs/icons)|[icons.getbootstrap.com](https://icons.getbootstrap.com/)|<a href=https://github.com/twbs/icons><img src="https://img.shields.io/github/stars/twbs/icons?style=flat" width=100/></a>
 [RemixIcon](https://github.com/Remix-Design/RemixIcon)|[remixicon.com](https://remixicon.com/)|<a href=https://github.com/Remix-Design/RemixIcon><img src="https://img.shields.io/github/stars/Remix-Design/RemixIcon?style=flat" width=100/></a>
