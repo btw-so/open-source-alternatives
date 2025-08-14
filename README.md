@@ -34,6 +34,7 @@ List of open-source alternatives to everyday SaaS products.
 
 ### Raster Graphics Editor (Photoshop alternatives):
 |Company|Website|GitHub stars|
+|:-------|:------|:----------|
 [GIMP](https://github.com/GNOME/gimp)|[gimp.org](https://www.gimp.org/)|<a href=https://github.com/GNOME/gimp><img src="https://img.shields.io/github/stars/GNOME/gimp?style=flat" width=100/></a>
 
 ### Web analytics (Google Analytics alternatives):
