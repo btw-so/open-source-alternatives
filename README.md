@@ -32,6 +32,10 @@ List of open-source alternatives to everyday SaaS products.
 [Openblocks](https://github.com/openblocks-dev/openblocks)|[openblocks.dev](https://openblocks.dev/)|<a href=https://github.com/openblocks-dev/openblocks><img src="https://img.shields.io/github/stars/openblocks-dev/openblocks?style=flat" width=100/></a>
 [DashPress](https://github.com/dashpresshq/dashpress)|[dashpress.io](https://dashpress.io/)|<a href=https://github.com/dashpresshq/dashpress><img src="https://img.shields.io/github/stars/dashpresshq/dashpress?style=flat" width=100/></a>
 
+### Raster Graphics Editor (Photoshop alternatives):
+|Company|Website|GitHub stars|
+[GIMP](https://github.com/GNOME/gimp)|[gimp.org](https://www.gimp.org/)|<a href=https://github.com/GNOME/gimp><img src="https://img.shields.io/github/stars/GNOME/gimp?style=flat" width=100/></a>
+
 ### Web analytics (Google Analytics alternatives):
 |Company|Website|GitHub stars|
 |:-------|:------|:----------|
