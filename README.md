@@ -304,6 +304,7 @@ List of open-source alternatives to everyday SaaS products.
 ### Platform-as-a-Service/ PaaS (Heroku, Netlify, Vercel alternatives):
 |Company|Website|GitHub stars|
 |:-------|:------|:----------|
+[Appwrite Sites](https://github.com/appwrite/appwrite)|[Appwrite Sites](https://appwrite.io/products/sites)|<a href=https://github.com/appwrite/appwrite><img src="https://img.shields.io/github/stars/appwrite/appwrite?style=flat" width=100/></a>
 [Dokku](https://github.com/dokku/dokku)|[dokku.com](https://dokku.com/)|<a href=https://github.com/dokku/dokku><img src="https://img.shields.io/github/stars/dokku/dokku?style=flat" width=100/></a>
 [CapRover](https://github.com/caprover/caprover)|[caprover.com](https://caprover.com/)|<a href=https://github.com/caprover/caprover><img src="https://img.shields.io/github/stars/caprover/caprover?style=flat" width=100/></a>
 [Coolify](https://github.com/coollabsio/coolify)|[coolify.io](https://coolify.io/)|<a href=https://github.com/coollabsio/coolify><img src="https://img.shields.io/github/stars/coollabsio/coolify?style=flat" width=100/></a>
