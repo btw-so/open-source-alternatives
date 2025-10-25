@@ -174,6 +174,7 @@ List of open-source alternatives to everyday SaaS products.
 [Element](https://github.com/vector-im/element-web)|[element.io](https://element.io)|<a href=https://github.com/vector-im/element-web><img src="https://img.shields.io/github/stars/vector-im/element-web?style=flat" width=100/></a>
 [Spacebar](https://github.com/spacebarchat/spacebarchat)|[spacebar.chat](https://spacebar.chat/)|<a href=https://github.com/spacebarchat/spacebarchat><img src="https://img.shields.io/github/stars/spacebarchat/spacebarchat?style=flat" width=100/></a>
 [RelatedChat](https://github.com/relatedcode/Messenger)|[relatedcode.com](https://relatedcode.com/)|<a href=https://github.com/relatedcode/Messenger><img src="https://img.shields.io/github/stars/relatedcode/Messenger?style=flat" width=100/></a>
+[Mezon](https://github.com/mezonai/mezon)|[mezon.ai](https://mezon.ai/)|<a href=https://github.com/mezonai/mezon><img src="https://img.shields.io/github/stars/mezonai/mezon?style=flat" width=100/></a>
 
 ### Live chat (Intercom alternatives):
 |Company|Website|GitHub stars|
