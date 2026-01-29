@@ -97,6 +97,11 @@ List of open-source alternatives to everyday SaaS products.
 [Plasmic](https://github.com/plasmicapp/plasmic)|[plasmic.app](https://www.plasmic.app/)|<a href=https://github.com/plasmicapp/plasmic><img src="https://img.shields.io/github/stars/plasmicapp/plasmic?style=flat" width=100/></a>
 [Quant-UX](https://github.com/KlausSchaefers/quant-ux)|[quant-ux.com](https://quant-ux.com/)|<a href=https://github.com/KlausSchaefers/quant-ux><img src="https://img.shields.io/github/stars/KlausSchaefers/quant-ux?style=flat" width=100/></a>
 
+### Customer Feedback (Canny alternatives):
+|Company|Website|GitHub stars|
+|:-------|:------|:----------|
+[Quackback](https://github.com/QuackbackIO/quackback)|[quackback.io](https://quackback.io/)|<a href=https://github.com/QuackbackIO/quackback><img src="https://img.shields.io/github/stars/QuackbackIO/quackback?style=flat" width=100/></a>
+
 ### Online forms (Typeform alternatives):
 |Company|Website|GitHub stars|
 |:-------|:------|:----------|
