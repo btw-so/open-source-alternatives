@@ -7,6 +7,7 @@ List of open-source alternatives to everyday SaaS products.
 [OpenAssistant](https://github.com/LAION-AI/Open-Assistant)|[open-assistant.io](https://open-assistant.io/)|<a href=https://github.com/LAION-AI/Open-Assistant><img src="https://img.shields.io/github/stars/LAION-AI/Open-Assistant?style=flat" width=100/></a>
 [Leon](https://github.com/leon-ai/leon)|[getleon.ai](https://getleon.ai/)|<a href=https://github.com/leon-ai/leon><img src="https://img.shields.io/github/stars/leon-ai/leon?style=flat" width=100/></a>
 [ChatRWKV](https://github.com/BlinkDL/ChatRWKV)|[twitter.com/BlinkDL_AI](https://twitter.com/BlinkDL_AI)|<a href=https://github.com/BlinkDL/ChatRWKV><img src="https://img.shields.io/github/stars/BlinkDL/ChatRWKV?style=flat" width=100/></a>
+[Onyx](https://github.com/onyx-dot-app/onyx)|[onyx.app](https://www.onyx.app/)|<a href=https://github.com/onyx-dot-app/onyx><img src="https://img.shields.io/github/stars/onyx-dot-app/onyx?style=flat" width=100/></a>
 
 ### AI code completion (Github CoPilot alternatives):
 |Company|Website|GitHub stars|
@@ -191,6 +192,11 @@ List of open-source alternatives to everyday SaaS products.
 |Company|Website|GitHub stars|
 |:-------|:------|:----------|
 [Typesense](https://github.com/typesense/typesense)|[typesense.org](https://typesense.org/)|<a href=https://github.com/typesense/typesense><img src="https://img.shields.io/github/stars/typesense/typesense?style=flat" width=100/></a>
+
+### AI-powered enterprise search (Glean alternatives):
+|Company|Website|GitHub stars|
+|:-------|:------|:----------|
+[Onyx](https://github.com/onyx-dot-app/onyx)|[onyx.app](https://www.onyx.app/)|<a href=https://github.com/onyx-dot-app/onyx><img src="https://img.shields.io/github/stars/onyx-dot-app/onyx?style=flat" width=100/></a>
 
 ### Backend-as-a-Service (Firebase alternatives):
 |Company|Website|GitHub stars|
