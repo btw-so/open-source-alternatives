@@ -393,6 +393,12 @@ List of open-source alternatives to everyday SaaS products.
 [LimeSurvey](https://github.com/LimeSurvey/LimeSurvey)|[limesurvey.org](https://www.limesurvey.org)|<a href=https://github.com/LimeSurvey/LimeSurvey><img src="https://img.shields.io/github/stars/LimeSurvey/LimeSurvey?style=flat" width=100/></a>
 
 
+### SaaS Boilerplate / Starter Kit (SaaSykit, Shipfast alternatives):
+|Company|Website|GitHub stars|
+|:-------|:------|:----------|
+[LastSaaS](https://github.com/jonradoff/lastsaas)|[metavert.io/lastsaas](https://metavert.io/lastsaas)|<a href=https://github.com/jonradoff/lastsaas><img src="https://img.shields.io/github/stars/jonradoff/lastsaas?style=flat" width=100/></a>
+
+
 ## Criteria
 1. Product is open-source and repo is actively being maintained.
 3. It is a product (not a library) and ideally has a popular closed-source alternative.
