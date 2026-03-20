@@ -179,6 +179,7 @@ List of open-source alternatives to everyday SaaS products.
 |Company|Website|GitHub stars|
 |:-------|:------|:----------|
 [Chatwoot](https://github.com/chatwoot/chatwoot)|[chatwoot.com](https://www.chatwoot.com/)|<a href=https://github.com/chatwoot/chatwoot><img src="https://img.shields.io/github/stars/chatwoot/chatwoot?style=flat" width=100/></a>
+[AnveVoice](https://github.com/ANVEAI/anve-voice-agent)|[anvevoice.app](https://anvevoice.app/)|<a href=https://github.com/ANVEAI/anve-voice-agent><img src="https://img.shields.io/github/stars/ANVEAI/anve-voice-agent?style=flat" width=100/></a>
 
 ### User authentication (Auth0 alternatives):
 |Company|Website|GitHub stars|
