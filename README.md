@@ -39,6 +39,7 @@ List of open-source alternatives to everyday SaaS products.
 [Umami](https://github.com/umami-software/umami)|[umami.is](https://umami.is/)|<a href=https://github.com/umami-software/umami><img src="https://img.shields.io/github/stars/umami-software/umami?style=flat" width=100/></a>
 [Plausible](https://github.com/plausible/analytics)|[plausible.io](https://plausible.io/)|<a href=https://github.com/plausible/analytics><img src="https://img.shields.io/github/stars/plausible/analytics?style=flat" width=100/></a>
 [OpenWebAnalytics](https://github.com/Open-Web-Analytics/Open-Web-Analytics)|[openwebanalytics.com](https://www.openwebanalytics.com/)|<a href=https://github.com/Open-Web-Analytics/Open-Web-Analytics><img src="https://img.shields.io/github/stars/Open-Web-Analytics/Open-Web-Analytics?style=flat" width=100/></a>
+[Beam](https://github.com/scobb/beam.js)|[beam-privacy.com](https://beam-privacy.com/)|<a href=https://github.com/scobb/beam.js><img src="https://img.shields.io/github/stars/scobb/beam.js?style=flat" width=100/></a>
 
 ### Note-taking/ Knowledge management (Evernote alternatives):
 |Company|Website|GitHub stars|
