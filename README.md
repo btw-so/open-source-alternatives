@@ -8,6 +8,11 @@ List of open-source alternatives to everyday SaaS products.
 [Leon](https://github.com/leon-ai/leon)|[getleon.ai](https://getleon.ai/)|<a href=https://github.com/leon-ai/leon><img src="https://img.shields.io/github/stars/leon-ai/leon?style=flat" width=100/></a>
 [ChatRWKV](https://github.com/BlinkDL/ChatRWKV)|[twitter.com/BlinkDL_AI](https://twitter.com/BlinkDL_AI)|<a href=https://github.com/BlinkDL/ChatRWKV><img src="https://img.shields.io/github/stars/BlinkDL/ChatRWKV?style=flat" width=100/></a>
 
+### AI CLI assistants (Copilot CLI alternatives):
+|Company|Website|GitHub stars|
+|:-------|:------|:----------|
+[GrugBot420](https://github.com/grug-group420/grugbot420)|[grug-group420.github.io/portal](https://grug-group420.github.io/portal)|<a href=https://github.com/grug-group420/grugbot420><img src="https://img.shields.io/github/stars/grug-group420/grugbot420?style=flat" width=100/></a>
+
 ### AI code completion (Github CoPilot alternatives):
 |Company|Website|GitHub stars|
 |:-------|:------|:----------|
