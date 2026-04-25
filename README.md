@@ -393,6 +393,12 @@ List of open-source alternatives to everyday SaaS products.
 [LimeSurvey](https://github.com/LimeSurvey/LimeSurvey)|[limesurvey.org](https://www.limesurvey.org)|<a href=https://github.com/LimeSurvey/LimeSurvey><img src="https://img.shields.io/github/stars/LimeSurvey/LimeSurvey?style=flat" width=100/></a>
 
 
+### Learning Management System / LMS (Teachable, Thinkific alternatives):
+
+| Company | Description | GitHub Stars |
+|---------|-------------|--------------|
+| [Bible School LMS](https://github.com/ArVaViT/biblie-school) | Free, open-source LMS for Bible schools and nonprofits. Features course authoring, quizzes, grading, certificates. React + FastAPI + Supabase. | ![GitHub Stars](https://img.shields.io/github/stars/ArVaViT/biblie-school) |
+
 ## Criteria
 1. Product is open-source and repo is actively being maintained.
 3. It is a product (not a library) and ideally has a popular closed-source alternative.
