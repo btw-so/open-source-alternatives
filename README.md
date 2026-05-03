@@ -47,6 +47,7 @@ List of open-source alternatives to everyday SaaS products.
 [Logseq](https://github.com/logseq/logseq)|[logseq.com](https://logseq.com/)|<a href=https://github.com/logseq/logseq><img src="https://img.shields.io/github/stars/logseq/logseq?style=flat" width=100/></a>
 [SiYuan](https://github.com/siyuan-note/siyuan)|[b3log.org/siyuan/en](https://b3log.org/siyuan/en/)|<a href=https://github.com/siyuan-note/siyuan><img src="https://img.shields.io/github/stars/siyuan-note/siyuan?style=flat" width=100/></a>
 [Notesnook](https://github.com/streetwriters/notesnook)|[notesnook.com](https://notesnook.com/)|<a href=https://github.com/streetwriters/notesnook><img src="https://img.shields.io/github/stars/streetwriters/notesnook?style=flat" width=100/></a>
+[qnote](https://github.com/Omibranch/qnote)|[github.com/Omibranch/qnote](https://github.com/Omibranch/qnote)|<a href=https://github.com/Omibranch/qnote><img src="https://img.shields.io/github/stars/Omibranch/qnote?style=flat" width=100/></a>
 
 ### Company blogs/ newsletters (WordPress alternatives):
 |Company|Website|GitHub stars|
