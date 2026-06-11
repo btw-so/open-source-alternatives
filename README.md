@@ -7,6 +7,7 @@ List of open-source alternatives to everyday SaaS products.
 [OpenAssistant](https://github.com/LAION-AI/Open-Assistant)|[open-assistant.io](https://open-assistant.io/)|<a href=https://github.com/LAION-AI/Open-Assistant><img src="https://img.shields.io/github/stars/LAION-AI/Open-Assistant?style=flat" width=100/></a>
 [Leon](https://github.com/leon-ai/leon)|[getleon.ai](https://getleon.ai/)|<a href=https://github.com/leon-ai/leon><img src="https://img.shields.io/github/stars/leon-ai/leon?style=flat" width=100/></a>
 [ChatRWKV](https://github.com/BlinkDL/ChatRWKV)|[twitter.com/BlinkDL_AI](https://twitter.com/BlinkDL_AI)|<a href=https://github.com/BlinkDL/ChatRWKV><img src="https://img.shields.io/github/stars/BlinkDL/ChatRWKV?style=flat" width=100/></a>
+[Hivekeep](https://github.com/MarlBurroW/hivekeep)|[hivekeep.app](https://hivekeep.app/)|<a href=https://github.com/MarlBurroW/hivekeep><img src="https://img.shields.io/github/stars/MarlBurroW/hivekeep?style=flat" width=100/></a>
 
 ### AI code completion (Github CoPilot alternatives):
 |Company|Website|GitHub stars|
