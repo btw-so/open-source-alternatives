@@ -397,7 +397,7 @@ List of open-source alternatives to everyday SaaS products.
 
 | Company | Description | GitHub Stars |
 |---------|-------------|--------------|
-| [Bible School LMS](https://github.com/ArVaViT/biblie-school) | Free, open-source LMS for Bible schools and nonprofits. Features course authoring, quizzes, grading, certificates. React + FastAPI + Supabase. | ![GitHub Stars](https://img.shields.io/github/stars/ArVaViT/biblie-school) |
+| [Equip](https://github.com/ArVaViT/equip) | Free, open-source LMS for Bible schools and nonprofits. Features course authoring, quizzes, grading, certificates. React + FastAPI + Supabase. | ![GitHub Stars](https://img.shields.io/github/stars/ArVaViT/equip) |
 
 ## Criteria
 1. Product is open-source and repo is actively being maintained.
