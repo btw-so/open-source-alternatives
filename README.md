@@ -113,6 +113,7 @@ List of open-source alternatives to everyday SaaS products.
 [Strapi](https://github.com/strapi/strapi)|[strapi.io](https://strapi.io/)|<a href=https://github.com/strapi/strapi><img src="https://img.shields.io/github/stars/strapi/strapi?style=flat" width=100/></a>
 [Payload](https://github.com/payloadcms/payload)|[payloadcms.com](https://payloadcms.com/)|<a href=https://github.com/payloadcms/payload><img src="https://img.shields.io/github/stars/payloadcms/payload?style=flat" width=100/></a>
 [Webiny](https://github.com/webiny/webiny-js)|[webiny.com](https://www.webiny.com/)|<a href=https://github.com/webiny/webiny-js><img src="https://img.shields.io/github/stars/webiny/webiny-js?style=flat" width=100/></a>
+[UnfoldCMS](https://github.com/hpakdaman/unfoldcms)|[unfoldcms.com](https://unfoldcms.com/)|<a href=https://github.com/hpakdaman/unfoldcms><img src="https://img.shields.io/github/stars/hpakdaman/unfoldcms?style=flat" width=100/></a>
 
 ### Log management (Papertrail alternatives):
 |Company|Website|GitHub stars|
