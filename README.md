@@ -156,6 +156,7 @@ List of open-source alternatives to everyday SaaS products.
 |Company|Website|GitHub stars|
 |:-------|:------|:----------|
 [Cal.com](https://github.com/calcom/cal.com)|[cal.com](https://cal.com/)|<a href=https://github.com/calcom/cal.com><img src="https://img.shields.io/github/stars/calcom/cal.com?style=flat" width=100/></a>
+[Tymeslot](https://github.com/Tymeslot/tymeslot)|[tymeslot.app](https://tymeslot.app/)|<a href=https://github.com/Tymeslot/tymeslot><img src="https://img.shields.io/github/stars/Tymeslot/tymeslot?style=flat" width=100/></a>
 
 ### Smart spreadsheet (Airtable alternatives):
 |Company|Website|GitHub stars|
