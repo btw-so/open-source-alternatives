@@ -325,6 +325,7 @@ List of open-source alternatives to everyday SaaS products.
 [Invoice Ninja](https://github.com/invoiceninja/invoiceninja)|[invoiceninja.com](https://invoiceninja.com/)|<a href=https://github.com/invoiceninja/invoiceninja><img src="https://img.shields.io/github/stars/invoiceninja/invoiceninja?style=flat" width=100/></a>
 [Crater](https://github.com/crater-invoice/crater)|[crater.financial](https://crater.financial/)|<a href=https://github.com/crater-invoice/crater><img src="https://img.shields.io/github/stars/crater-invoice/crater?style=flat" width=100/></a>
 [SolidInvoice](https://github.com/SolidInvoice/SolidInvoice)|[solidinvoice.co](https://solidinvoice.co/)|<a href=https://github.com/SolidInvoice/SolidInvoice><img src="https://img.shields.io/github/stars/SolidInvoice/SolidInvoice?style=flat" width=100/></a>
+[Toolkit Labs Invoice](https://github.com/YtinuMoc/toolkitlabs-invoice)|[Toolkit Labs Invoice](https://ytinumoc.github.io/toolkitlabs-invoice/) — free browser invoice/receipt PDF; [commercial license (EUR 249)](https://buy.stripe.com/bJeeVea187TScZwb095Ne0k?client_reference_id=open-source-alternatives-v1)|<a href=https://github.com/YtinuMoc/toolkitlabs-invoice><img src="https://img.shields.io/github/stars/YtinuMoc/toolkitlabs-invoice?style=flat" width=100/></a>
 
 ### Graph database:
 |Company|Website|GitHub stars|
