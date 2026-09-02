@@ -219,6 +219,11 @@ List of open-source alternatives to everyday SaaS products.
 [Bagisto](https://github.com/bagisto/bagisto)|[bagisto.com](https://bagisto.com/)|<a href=https://github.com/bagisto/bagisto><img src="https://img.shields.io/github/stars/bagisto/bagisto?style=flat" width=100/></a>
 [Litekart](https://github.com/itswadesh/svelte-commerce)|[litekart.in](https://litekart.in/)|<a href=https://github.com/itswadesh/svelte-commerce><img src="https://img.shields.io/github/stars/itswadesh/svelte-commerce?style=flat" width=100/></a>
 
+### Point-of-sale / billing software (Square POS, Lightspeed Retail, Toast POS alternatives):
+|Company|Website|GitHub stars|
+|:-------|:------|:----------|
+[Posnic](https://github.com/Posnic/POS)|[posnic.io](https://posnic.io/)|<a href=https://github.com/Posnic/POS><img src="https://img.shields.io/github/stars/Posnic/POS?style=flat" width=100/></a>
+
 ### Password manager (1Password alternatives):
 |Company|Website|GitHub stars|
 |:-------|:------|:----------|
