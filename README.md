@@ -392,6 +392,10 @@ List of open-source alternatives to everyday SaaS products.
 |:-------|:------|:----------|
 [LimeSurvey](https://github.com/LimeSurvey/LimeSurvey)|[limesurvey.org](https://www.limesurvey.org)|<a href=https://github.com/LimeSurvey/LimeSurvey><img src="https://img.shields.io/github/stars/LimeSurvey/LimeSurvey?style=flat" width=100/></a>
 
+### Game Backend as a Service (GBaaS)
+|Company|Website|Github stars|
+|:------|:------|:-----------|
+[Namazu Studios](https://github.com/NamazuStudios)|[namazustudios.com](https://namazustudios.com?utm=ghossa)|<a href="https://github.com/NamazuStudios/elements"><img src="https://img.shields.io/github/stars/Namazustudios/elements?style=flat"/></a>
 
 ## Criteria
 1. Product is open-source and repo is actively being maintained.
