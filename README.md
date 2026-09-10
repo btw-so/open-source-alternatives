@@ -222,7 +222,7 @@ List of open-source alternatives to everyday SaaS products.
 ### Point-of-sale / billing software (Square POS, Lightspeed Retail, Toast POS alternatives):
 |Company|Website|GitHub stars|
 |:-------|:------|:----------|
-[Posnic](https://github.com/Posnic/POS)|[posnic.io](https://posnic.io/)|<a href=https://github.com/Posnic/POS><img src="https://img.shields.io/github/stars/Posnic/POS?style=flat" width=100/></a>
+[Posnic](https://github.com/Posnic/POS)|[www.posnic.com](https://www.posnic.com/)|<a href=https://github.com/Posnic/POS><img src="https://img.shields.io/github/stars/Posnic/POS?style=flat" width=100/></a>
 
 ### Password manager (1Password alternatives):
 |Company|Website|GitHub stars|
