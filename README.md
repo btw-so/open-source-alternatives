@@ -64,6 +64,11 @@ List of open-source alternatives to everyday SaaS products.
 |:-------|:------|:----------|
 [listmonk](https://github.com/knadh/listmonk)|[listmonk.app](https://listmonk.app/)|<a href=https://github.com/knadh/listmonk><img src="https://img.shields.io/github/stars/knadh/listmonk?style=flat" width=100/></a>
 
+### Social media publishing (Buffer, Hootsuite alternatives):
+|Company|Website|GitHub stars|
+|:-------|:------|:----------|
+[OpenPost](https://github.com/getopenpost/openpost)|[openpo.st](https://openpo.st/)|<a href=https://github.com/getopenpost/openpost><img src="https://img.shields.io/github/stars/getopenpost/openpost?style=flat" width=100/></a>
+
 ### Static website generator:
 |Company|Website|GitHub stars|
 |:-------|:------|:----------|
