@@ -254,6 +254,7 @@ List of open-source alternatives to everyday SaaS products.
 |:-------|:------|:----------|
 [hoppscotch](https://github.com/hoppscotch/hoppscotch)|[hoppscotch.io](https://hoppscotch.io/)|<a href=https://github.com/hoppscotch/hoppscotch><img src="https://img.shields.io/github/stars/hoppscotch/hoppscotch?style=flat" width=100/></a>
 [Insomnia](https://github.com/Kong/insomnia)|[insomnia.rest](https://insomnia.rest/)|<a href=https://github.com/Kong/insomnia><img src="https://img.shields.io/github/stars/Kong/insomnia?style=flat" width=100/></a>
+[Cortex](https://github.com/cortex-docs/cortex)|[cortexdocs.dev](https://cortexdocs.dev)|<a href=https://github.com/cortex-docs/cortex><img src="https://img.shields.io/github/stars/cortex-docs/cortex?style=flat" width=100/></a>
 [Firecamp](https://github.com/firecamp-dev/firecamp)|[firecamp.dev](https://firecamp.dev)|<a href=https://github.com/firecamp-dev/firecamp><img src="https://img.shields.io/github/stars/firecamp-dev/firecamp?style=flat" width=100/></a>
 
 
