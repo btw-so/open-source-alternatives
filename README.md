@@ -325,6 +325,7 @@ List of open-source alternatives to everyday SaaS products.
 [Invoice Ninja](https://github.com/invoiceninja/invoiceninja)|[invoiceninja.com](https://invoiceninja.com/)|<a href=https://github.com/invoiceninja/invoiceninja><img src="https://img.shields.io/github/stars/invoiceninja/invoiceninja?style=flat" width=100/></a>
 [Crater](https://github.com/crater-invoice/crater)|[crater.financial](https://crater.financial/)|<a href=https://github.com/crater-invoice/crater><img src="https://img.shields.io/github/stars/crater-invoice/crater?style=flat" width=100/></a>
 [SolidInvoice](https://github.com/SolidInvoice/SolidInvoice)|[solidinvoice.co](https://solidinvoice.co/)|<a href=https://github.com/SolidInvoice/SolidInvoice><img src="https://img.shields.io/github/stars/SolidInvoice/SolidInvoice?style=flat" width=100/></a>
+[BusinessOS](https://github.com/BusinessOS-biz/businessos)|[businessos.biz](https://businessos.biz/)|<a href=https://github.com/BusinessOS-biz/businessos><img src="https://img.shields.io/github/stars/BusinessOS-biz/businessos?style=flat" width=100/></a>
 
 ### Graph database:
 |Company|Website|GitHub stars|
