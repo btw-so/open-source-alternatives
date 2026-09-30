@@ -308,6 +308,7 @@ List of open-source alternatives to everyday SaaS products.
 [CapRover](https://github.com/caprover/caprover)|[caprover.com](https://caprover.com/)|<a href=https://github.com/caprover/caprover><img src="https://img.shields.io/github/stars/caprover/caprover?style=flat" width=100/></a>
 [Coolify](https://github.com/coollabsio/coolify)|[coolify.io](https://coolify.io/)|<a href=https://github.com/coollabsio/coolify><img src="https://img.shields.io/github/stars/coollabsio/coolify?style=flat" width=100/></a>
 [Kubero](https://github.com/kubero-dev/kubero)|[kubero.dev](https://www.kubero.dev/)|<a href=https://github.com/kubero-dev/kubero><img src="https://img.shields.io/github/stars/kubero-dev/kubero?style=flat" width=100/></a>
+[Peon](https://github.com/Peon-sh/Peon)|[peon.sh](https://peon.sh/)|<a href=https://github.com/Peon-sh/Peon><img src="https://img.shields.io/github/stars/Peon-sh/Peon?style=flat" width=100/></a>
 
 ### Unified Communication Platform & Telephony API (Twilio alternatives):
 |Company|Website|GitHub stars|
