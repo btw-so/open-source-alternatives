@@ -380,8 +380,8 @@ List of open-source alternatives to everyday SaaS products.
 ### CRM (Salesforce, Hubspot alternatives):
 |Company|Website|GitHub stars|
 |:-------|:------|:----------|
-[Customermates](https://github.com/customermates/customermates)|[Customermates.com](https://customermates.com)|<a href=https://github.com/customermates/customermates><img src="https://img.shields.io/github/stars/customermates/customermates?style=flat" width=100/></a>
 [Twenty](https://github.com/twentyhq/twenty)|[Twenty.com](https://twenty.com)|<a href=https://github.com/twentyhq/twenty><img src="https://img.shields.io/github/stars/twentyhq/twenty?style=flat" width=100/></a>
+[Customermates](https://github.com/customermates/customermates)|[Customermates.com](https://customermates.com)|<a href=https://github.com/customermates/customermates><img src="https://img.shields.io/github/stars/customermates/customermates?style=flat" width=100/></a>
 
 ### Integration Platform (Tray.io, Merge.dev alternatives)
 |Company|Website|GitHub stars|
