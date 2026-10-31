@@ -364,6 +364,7 @@ List of open-source alternatives to everyday SaaS products.
 |:-------|:------|:----------|
 [Plane](https://github.com/makeplane/plane)|[Plane.so](https://plane.so/)|<a href=https://github.com/makeplane/plane><img src="https://img.shields.io/github/stars/makeplane/plane?style=flat" width=100/></a>
 [Leantime](https://github.com/Leantime/leantime)|[leantime.io](https://leantime.io/)|<a href=https://github.com/Leantime/leantime><img src="https://img.shields.io/github/stars/Leantime/leantime?style=flat" width=100/></a>
+[It's a Plan](https://github.com/croffasia/itsaplan)|[itsaplan.dev](https://itsaplan.dev/)|<a href=https://github.com/croffasia/itsaplan><img src="https://img.shields.io/github/stars/croffasia/itsaplan?style=flat" width=100/></a>
 
 ### Time Tracking (Toggl, Clockify alternatives)
 |Company|Website|GitHub stars|
